@@ -1,0 +1,13 @@
+dynamicMods
+ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+41 26 17 13 12  9  8  7  4  4  4  4  3  3  3  3  3  2  2  2  2  2  2  2 
+
+dynamicColors
+        black          blue         brown          cyan     darkgreen       darkred 
+            7            17            13             3             2             2 
+darkturquoise         green   greenyellow          grey        grey60     lightcyan 
+            2             9             4            41             2             3 
+   lightgreen   lightyellow       magenta  midnightblue          pink        purple 
+            2             2             4             3             4             4 
+          red     royalblue        salmon           tan     turquoise        yellow 
+            8             2             3             3            26            12

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558347838465.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B24866E7",
+    "lastKnownWriteTime" : 1558705688,
+    "last_content_update" : 1559224468087,
+    "path" : "~/King's BRC DTP Work/Rotation 3/data/correlation analysis/data_curation.R",
+    "project_path" : "data_curation.R",
+    "properties" : {
+        "cursorPosition" : "41,20",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560694441869.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EEC2B312",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1560694441869,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9DF819A0",
+        "caption" : "omicsData",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=omicsData&cache_key=9DF819A0",
+        "displayedObservations" : 662,
+        "environment" : "",
+        "object" : "omicsData",
+        "preview" : 0,
+        "totalObservations" : 662,
+        "variables" : 32
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

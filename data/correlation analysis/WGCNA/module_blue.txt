@@ -1,0 +1,17 @@
+CXCL1
+CXCL5
+CASP8
+SULT1A1
+miR-21-5p
+miR-24-3p
+miR-27b-3p
+miR-126-3p
+miR-126-5p
+miR-191-5p
+miR-197-3p
+miR-223-3p
+miR-223-5p
+miR-324-5p
+let-7d-5p
+RNY4-3p
+RNY4-5p

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560962077991.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "247927088",
+    "id" : "2E5ED6F9",
+    "lastKnownWriteTime" : 1560964479,
+    "last_content_update" : 1560964479735,
+    "path" : "~/King's BRC DTP Work/Rotation 3/data/correlation analysis/Bruneck2000/miRNA data/Target_Prediction.R",
+    "project_path" : "Target_Prediction.R",
+    "properties" : {
+        "cursorPosition" : "162,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

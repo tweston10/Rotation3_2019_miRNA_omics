@@ -1,0 +1,53 @@
+## Navigation to working directories
+
+cd "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis"
+cd C:\Users\Timir\Documents\GitHub\ARACNe-AP\dist
+
+## test
+
+java -Xmx5G -jar aracne.jar -e ..\test\matrix.txt -o ..\outputFolder --tfs ..\test\tfs.txt --pvalue 1E-8 --seed 1
+
+## Calculate threshold with fixed seed
+
+java -Xmx5G -jar aracne.jar -e "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\GeneData.txt" -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP" --tfs "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\GeneNames.txt" --pvalue 1E-8 --seed 1 --calculateThreshold
+
+# Finding threshold for 338 samples
+# Parameters for fitted threshold function: [0.07641474914857564, 6.22541231348168E-6]
+# MI threshold: 0.08884419853013727
+
+## Run single bootstrap
+
+java -Xmx5G -jar aracne.jar -e "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\GeneData.txt" -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP" --tfs "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\GeneNames.txt" --pvalue 1E-8 --seed 1
+
+# Bootstrapping input matrix 1 with 179 genes and 338 samples
+# MI threshold file is present
+# Calculate network from: C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data# \correlation analysis\GeneData.txt
+# TFs processed: 179
+# Time elapsed for calculating MI: 0 sec
+
+# DPI time elapsed: 0 sec
+# Edges removed by DPI:   6931
+# Final Network size:     984
+# Total time elapsed: 0 sec
+
+## Run 100 reproducible bootstraps
+
+for /l %i in (1, 1, 100) do java -Xmx5G -jar aracne.jar -e "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\GeneData.txt" -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP" --tfs "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\GeneNames.txt" --pvalue 1E-8 --seed %i
+
+## ----------------------------------------------------------
+
+## Protein TFs vs. Protein Data Set
+
+java -Xmx5G -jar aracne.jar -e "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\Protein_Data.txt" -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP\Protein-Protein" --tfs "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\proteins.txt" --pvalue 1E-8 --seed 1 --calculateThreshold
+
+for /l %i in (1, 1, 100) do java -Xmx5G -jar aracne.jar -e "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\Protein_Data.txt" -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP\Protein-Protein" --tfs "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\proteins.txt" --pvalue 1E-8 --seed %i
+
+java -Xmx5G -jar aracne.jar -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP\Protein-Protein" --consolidate
+
+## miRNA TFs vs. miRNA + Protein Data Set
+
+java -Xmx5G -jar aracne.jar -e "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\GeneData.txt" -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP\miRNA-All" --tfs "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\miRNAs.txt" --pvalue 1E-8 --seed 1 --calculateThreshold
+
+for /l %i in (1, 1, 100) do java -Xmx5G -jar aracne.jar -e "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\GeneData.txt" -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP\miRNA-All" --tfs "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\miRNAs.txt" --pvalue 1E-8 --seed %i
+
+java -Xmx5G -jar aracne.jar -o "C:\Users\Timir\Documents\King's BRC DTP Work\Rotation 3\data\correlation analysis\ARACNe-AP\miRNA-All" --consolidate

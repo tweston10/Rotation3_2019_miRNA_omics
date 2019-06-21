@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560964438309.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4DFDBDC5",
+    "lastKnownWriteTime" : 8390014994434125655,
+    "last_content_update" : 1560964438309,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "852A256B",
+        "caption" : "FinalTable2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=FinalTable2&cache_key=852A256B",
+        "displayedObservations" : 181674,
+        "environment" : "",
+        "object" : "FinalTable2",
+        "preview" : 0,
+        "totalObservations" : 181674,
+        "variables" : 12
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

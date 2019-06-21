@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560855411877.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A830745",
+    "lastKnownWriteTime" : 7225517787516514853,
+    "last_content_update" : 1560855411877,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E7493969",
+        "caption" : "matrixAgeHR",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=matrixAgeHR&cache_key=E7493969",
+        "displayedObservations" : 20,
+        "environment" : "",
+        "object" : "matrixAgeHR",
+        "preview" : 0,
+        "totalObservations" : 20,
+        "variables" : 4
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

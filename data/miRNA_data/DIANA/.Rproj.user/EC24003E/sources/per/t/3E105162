@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557763466787.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3E105162",
+    "lastKnownWriteTime" : 7813877730276303717,
+    "last_content_update" : 1557763466787,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "213bdcd853024826bb041edf4cee13cc",
+        "name" : "df.list",
+        "title" : "df.list"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

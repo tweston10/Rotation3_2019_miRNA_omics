@@ -1,0 +1,31 @@
+Programs Used:
+
+miRWalk 3.0	Integrated Text Mining
+mirDip		Integrated
+PolymiRTS 3.0	Seed Matching / Polymorphism Effects
+miRDB		Support Vector Machine Learning
+
+Other
+
+DIANAmicroT	Non-batch
+TargetScan 7.2	Non-batch
+
+PicTar		Non-batch
+miRGator v3.0	Non-batch
+miRecords	Non-batch
+miRTar2GO	Non-batch
+miRTarBase	Non-batch, unable to download results of web query
+
+miRanda		Unable to download results of web query
+TarBase v8	Unable to download results of web query
+RNAhybrid	Requires candidate target sequences
+RNA22 v2	Requires candidate target sequence
+mirSOM		Lack permission to access
+psRNATarget	Specialised for plant miRNAs
+TargetFinder	Specialised for plant miRNAs
+miRTarCLIP	Requires Linux
+GenMiR++	Requires Linux; tool missing from website
+MiRTDL		Requires input data / feature values
+miRBShunter	Requires input data / peak calling values
+
+MiTarget	Discontinued

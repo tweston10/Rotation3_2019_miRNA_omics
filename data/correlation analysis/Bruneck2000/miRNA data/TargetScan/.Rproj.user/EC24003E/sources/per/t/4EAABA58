@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560963006919.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4EAABA58",
+    "lastKnownWriteTime" : 7957695015158572402,
+    "last_content_update" : 1560963006919,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AEC6644F",
+        "caption" : "miRNA_data2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=miRNA_data2&cache_key=AEC6644F",
+        "displayedObservations" : 48978,
+        "environment" : "",
+        "object" : "miRNA_data2",
+        "preview" : 0,
+        "totalObservations" : 48978,
+        "variables" : 23
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

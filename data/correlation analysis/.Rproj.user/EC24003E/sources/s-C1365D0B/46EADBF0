@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559567845779.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "46EADBF0",
+    "lastKnownWriteTime" : 1560522229,
+    "last_content_update" : 1560522229307,
+    "path" : "~/King's BRC DTP Work/Rotation 3/data/correlation analysis/WGCNA_analysis1.R",
+    "project_path" : "WGCNA_analysis1.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

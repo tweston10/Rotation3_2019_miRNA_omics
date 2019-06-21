@@ -1,0 +1,1344 @@
+Target Rank	Target Score	miRNA Name	Gene ID	Gene Symbol	Transcript Accession	Gene Description
+1	100	hsa-miR-150-5p	9899	SV2B	NM_014848	synaptic vesicle glycoprotein 2B
+2	100	hsa-miR-150-5p	4602	MYB	NM_001161659	MYB proto-oncogene, transcription factor
+3	100	hsa-miR-195-5p	5069	PAPPA	NM_002581	pappalysin 1
+4	100	hsa-miR-195-5p	2194	FASN	NM_004104	fatty acid synthase
+5	100	hsa-miR-195-5p	285175	UNC80	NM_032504	unc-80 homolog, NALCN channel complex subunit
+6	100	hsa-miR-195-5p	2247	FGF2	NM_002006	fibroblast growth factor 2
+7	100	hsa-miR-195-5p	23112	TNRC6B	NM_001024843	trinucleotide repeat containing 6B
+8	100	hsa-miR-195-5p	5775	PTPN4	NM_002830	protein tyrosine phosphatase, non-receptor type 4
+9	100	hsa-miR-195-5p	26147	PHF19	NM_001286842	PHD finger protein 19
+10	100	hsa-miR-195-5p	27351	DESI1	NM_015704	desumoylating isopeptidase 1
+11	99	hsa-miR-155-5p	22834	ZNF652	NM_001145365	zinc finger protein 652
+12	99	hsa-miR-155-5p	7547	ZIC3	NM_003413	Zic family member 3
+13	99	hsa-miR-155-5p	571	BACH1	NM_001186	BTB domain and CNC homolog 1
+14	99	hsa-miR-155-5p	3720	JARID2	NM_001267040	jumonji and AT-rich interaction domain containing 2
+15	99	hsa-miR-150-5p	4194	MDM4	NM_001278518	MDM4, p53 regulator
+16	99	hsa-miR-150-5p	79602	ADIPOR2	NM_024551	adiponectin receptor 2
+17	99	hsa-miR-150-3p	2495	FTH1	NM_002032	ferritin heavy chain 1
+18	99	hsa-miR-150-3p	54464	XRN1	NM_001282857	5'-3' exoribonuclease 1
+19	99	hsa-miR-150-3p	54407	SLC38A2	NM_018976	solute carrier family 38 member 2
+20	99	hsa-miR-195-5p	55585	UBE2Q1	NM_017582	ubiquitin conjugating enzyme E2 Q1
+21	99	hsa-miR-195-5p	134353	LSM11	NM_173491	LSM11, U7 small nuclear RNA associated
+22	99	hsa-miR-195-5p	5818	NECTIN1	NM_002855	nectin cell adhesion molecule 1
+23	99	hsa-miR-195-5p	64762	GAREM1	NM_001242409	GRB2 associated regulator of MAPK1 subtype 1
+24	99	hsa-miR-195-5p	389161	ANKUB1	NM_001315506	ankyrin repeat and ubiquitin domain containing 1
+25	99	hsa-miR-195-5p	23014	FBXO21	NM_015002	F-box protein 21
+26	99	hsa-miR-195-5p	898	CCNE1	NM_001238	cyclin E1
+27	99	hsa-miR-195-5p	22863	ATG14	NM_014924	autophagy related 14
+28	99	hsa-miR-195-5p	7798	LUZP1	NM_001142546	leucine zipper protein 1
+29	99	hsa-miR-195-5p	64849	SLC13A3	NM_001193339	solute carrier family 13 member 3
+30	99	hsa-miR-195-5p	25820	ARIH1	NM_005744	ariadne RBR E3 ubiquitin protein ligase 1
+31	99	hsa-miR-195-5p	11320	MGAT4A	NM_001160154	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+32	99	hsa-miR-195-5p	2048	EPHB2	NM_001309192	EPH receptor B2
+33	99	hsa-miR-195-5p	8945	BTRC	NM_001256856	beta-transducin repeat containing E3 ubiquitin protein ligase
+34	99	hsa-miR-195-5p	84926	SPRYD3	NM_032840	SPRY domain containing 3
+35	99	hsa-miR-195-5p	402	ARL2	NM_001199745	ADP ribosylation factor like GTPase 2
+36	99	hsa-miR-195-5p	8573	CASK	NM_003688	calcium/calmodulin dependent serine protein kinase
+37	99	hsa-miR-195-5p	10762	NUP50	NM_007172	nucleoporin 50
+38	99	hsa-miR-195-5p	9201	DCLK1	NM_001195415	doublecortin like kinase 1
+39	99	hsa-miR-195-5p	220002	CYB561A3	NM_001161452	cytochrome b561 family member A3
+40	99	hsa-miR-195-5p	140685	ZBTB46	NM_025224	zinc finger and BTB domain containing 46
+41	99	hsa-miR-195-5p	2252	FGF7	NM_002009	fibroblast growth factor 7
+42	98	hsa-miR-150-3p	1000	CDH2	NM_001308176	cadherin 2
+43	98	hsa-miR-197-3p	7547	ZIC3	NM_003413	Zic family member 3
+44	98	hsa-miR-195-5p	8434	RECK	NM_001316345	reversion inducing cysteine rich protein with kazal motifs
+45	98	hsa-miR-195-5p	5324	PLAG1	NM_001114634	PLAG1 zinc finger
+46	98	hsa-miR-195-5p	8313	AXIN2	NM_004655	axin 2
+47	98	hsa-miR-195-5p	81491	GPR63	NM_001143957	G protein-coupled receptor 63
+48	98	hsa-miR-195-5p	8867	SYNJ1	NM_001160302	synaptojanin 1
+49	98	hsa-miR-195-5p	27	ABL2	NM_001136000	ABL proto-oncogene 2, non-receptor tyrosine kinase
+50	98	hsa-miR-195-5p	6334	SCN8A	NM_001177984	sodium voltage-gated channel alpha subunit 8
+51	98	hsa-miR-195-5p	777	CACNA1E	NM_001205293	calcium voltage-gated channel subunit alpha1 E
+52	98	hsa-miR-195-5p	23761	PISD	NM_014338	phosphatidylserine decarboxylase
+53	98	hsa-miR-195-5p	3759	KCNJ2	NM_000891	potassium voltage-gated channel subfamily J member 2
+54	98	hsa-miR-195-5p	54980	C2orf42	NM_017880	chromosome 2 open reading frame 42
+55	98	hsa-miR-195-5p	7335	UBE2V1	NM_001032288	ubiquitin conjugating enzyme E2 V1
+56	98	hsa-miR-195-5p	23095	KIF1B	NM_015074	kinesin family member 1B
+57	98	hsa-miR-195-5p	161742	SPRED1	NM_152594	sprouty related EVH1 domain containing 1
+58	98	hsa-miR-195-5p	140890	SREK1	NM_001323529	splicing regulatory glutamic acid and lysine rich protein 1
+59	98	hsa-miR-195-5p	79718	TBL1XR1	NM_001321193	transducin beta like 1 X-linked receptor 1
+60	98	hsa-miR-195-5p	8897	MTMR3	NM_021090	myotubularin related protein 3
+61	98	hsa-miR-195-5p	9874	TLK1	NM_001136554	tousled like kinase 1
+62	98	hsa-miR-195-5p	4891	SLC11A2	NM_000617	solute carrier family 11 member 2
+63	98	hsa-miR-195-5p	79817	MOB3B	NM_024761	MOB kinase activator 3B
+64	98	hsa-miR-195-5p	29068	ZBTB44	NM_014155	zinc finger and BTB domain containing 44
+65	98	hsa-miR-195-5p	63982	ANO3	NM_001313726	anoctamin 3
+66	98	hsa-miR-195-5p	10479	SLC9A6	NM_001042537	solute carrier family 9 member A6
+67	98	hsa-miR-195-5p	8862	APLN	NM_017413	apelin
+68	98	hsa-miR-195-5p	10000	AKT3	NM_005465	AKT serine/threonine kinase 3
+69	98	hsa-miR-195-5p	10527	IPO7	NM_006391	importin 7
+70	98	hsa-miR-195-5p	153020	RASGEF1B	NM_001300735	RasGEF domain family member 1B
+71	98	hsa-miR-195-5p	79065	ATG9A	NM_001077198	autophagy related 9A
+72	98	hsa-miR-195-5p	132864	CPEB2	NM_001177381	cytoplasmic polyadenylation element binding protein 2
+73	98	hsa-miR-195-5p	23382	AHCYL2	NM_001130720	adenosylhomocysteinase like 2
+74	98	hsa-miR-195-5p	4602	MYB	NM_001130172	MYB proto-oncogene, transcription factor
+75	98	hsa-miR-195-5p	894	CCND2	NM_001759	cyclin D2
+76	98	hsa-miR-195-5p	3800	KIF5C	NM_004522	kinesin family member 5C
+77	98	hsa-miR-195-5p	254048	UBN2	NM_173569	ubinuclein 2
+78	98	hsa-miR-195-5p	10277	UBE4B	NM_001105562	ubiquitination factor E4B
+79	98	hsa-miR-195-5p	403	ARL3	NM_004311	ADP ribosylation factor like GTPase 3
+80	97	hsa-miR-155-5p	10765	KDM5B	NM_001314042	lysine demethylase 5B
+81	97	hsa-miR-155-5p	148198	ZNF98	NM_001098626	zinc finger protein 98
+82	97	hsa-miR-155-5p	10716	TBR1	NM_006593	T-box, brain 1
+83	97	hsa-miR-155-5p	359948	IRF2BP2	NM_001077397	interferon regulatory factor 2 binding protein 2
+84	97	hsa-miR-155-5p	56944	OLFML3	NM_020190	olfactomedin like 3
+85	97	hsa-miR-150-3p	9149	DYRK1B	NM_004714	dual specificity tyrosine phosphorylation regulated kinase 1B
+86	97	hsa-miR-150-3p	6323	SCN1A	NM_001165963	sodium voltage-gated channel alpha subunit 1
+87	97	hsa-miR-150-3p	1075	CTSC	NM_001814	cathepsin C
+88	97	hsa-miR-197-5p	7087	ICAM5	NM_003259	intercellular adhesion molecule 5
+89	97	hsa-miR-197-3p	5780	PTPN9	NM_002833	protein tyrosine phosphatase, non-receptor type 9
+90	97	hsa-miR-197-3p	79183	TTPAL	NM_001039199	alpha tocopherol transfer protein like
+91	97	hsa-miR-197-3p	7743	ZNF189	NM_001278240	zinc finger protein 189
+92	97	hsa-miR-195-5p	284358	MAMSTR	NM_001297753	MEF2 activating motif and SAP domain containing transcriptional regulator
+93	97	hsa-miR-195-5p	55038	CDCA4	NM_017955	cell division cycle associated 4
+94	97	hsa-miR-195-5p	2531	KDSR	NM_002035	3-ketodihydrosphingosine reductase
+95	97	hsa-miR-195-5p	9493	KIF23	NM_001281301	kinesin family member 23
+96	97	hsa-miR-195-5p	7020	TFAP2A	NM_001032280	transcription factor AP-2 alpha
+97	97	hsa-miR-195-5p	5110	PCMT1	NM_005389	protein-L-isoaspartate (D-aspartate) O-methyltransferase
+98	97	hsa-miR-195-5p	22843	PPM1E	NM_014906	protein phosphatase, Mg2+/Mn2+ dependent 1E
+99	97	hsa-miR-195-5p	8036	SHOC2	NM_007373	SHOC2, leucine rich repeat scaffold protein
+100	97	hsa-miR-195-5p	3356	HTR2A	NM_001165947	5-hydroxytryptamine receptor 2A
+101	97	hsa-miR-195-5p	286343	LURAP1L	NM_203403	leucine rich adaptor protein 1 like
+102	97	hsa-miR-195-5p	1760	DMPK	NM_001081563	DM1 protein kinase
+103	97	hsa-miR-195-5p	22841	RAB11FIP2	NM_014904	RAB11 family interacting protein 2
+104	97	hsa-miR-195-5p	51312	SLC25A37	NM_001317812	solute carrier family 25 member 37
+105	97	hsa-miR-195-5p	55273	TMEM100	NM_001099640	transmembrane protein 100
+106	97	hsa-miR-195-5p	11228	RASSF8	NM_001164746	Ras association domain family member 8
+107	97	hsa-miR-195-5p	55294	FBXW7	NM_033632	F-box and WD repeat domain containing 7
+108	97	hsa-miR-195-5p	11080	DNAJB4	NM_001317103	DnaJ heat shock protein family (Hsp40) member B4
+109	97	hsa-miR-195-5p	2917	GRM7	NM_181874	glutamate metabotropic receptor 7
+110	97	hsa-miR-195-5p	7465	WEE1	NM_001143976	WEE1 G2 checkpoint kinase
+111	97	hsa-miR-195-5p	56977	STOX2	NM_020225	storkhead box 2
+112	97	hsa-miR-195-5p	56603	CYP26B1	NM_001277742	cytochrome P450 family 26 subfamily B member 1
+113	96	hsa-miR-155-5p	219972	MPEG1	NM_001039396	macrophage expressed 1
+114	96	hsa-miR-155-5p	1044	CDX1	NM_001804	caudal type homeobox 1
+115	96	hsa-miR-155-5p	10881	ACTL7A	NM_006687	actin like 7A
+116	96	hsa-miR-155-5p	55016	MARCH1	NM_001166373	membrane associated ring-CH-type finger 1
+117	96	hsa-miR-155-5p	2353	FOS	NM_005252	Fos proto-oncogene, AP-1 transcription factor subunit
+118	96	hsa-miR-155-5p	121457	IKBIP	NM_153687	IKBKB interacting protein
+119	96	hsa-miR-155-5p	10036	CHAF1A	NM_005483	chromatin assembly factor 1 subunit A
+120	96	hsa-miR-150-5p	5069	PAPPA	NM_002581	pappalysin 1
+121	96	hsa-miR-150-5p	1106	CHD2	NM_001271	chromodomain helicase DNA binding protein 2
+122	96	hsa-miR-150-5p	117143	TADA1	NM_053053	transcriptional adaptor 1
+123	96	hsa-miR-150-5p	10409	BASP1	NM_001271606	brain abundant membrane attached signal protein 1
+124	96	hsa-miR-150-5p	4897	NRCAM	NM_001193583	neuronal cell adhesion molecule
+125	96	hsa-miR-150-3p	7764	ZNF217	NM_006526	zinc finger protein 217
+126	96	hsa-miR-150-3p	5991	RFX3	NM_001282116	regulatory factor X3
+127	96	hsa-miR-150-3p	10777	ARPP21	NM_016300	cAMP regulated phosphoprotein 21
+128	96	hsa-miR-197-3p	3556	IL1RAP	NM_001167930	interleukin 1 receptor accessory protein
+129	96	hsa-miR-197-3p	6886	TAL1	NM_001287347	TAL bHLH transcription factor 1, erythroid differentiation factor
+130	96	hsa-miR-197-3p	1024	CDK8	NM_001260	cyclin dependent kinase 8
+131	96	hsa-miR-197-3p	79801	SHCBP1	NM_001324318	SHC binding and spindle associated 1
+132	96	hsa-miR-195-5p	9683	N4BP1	NM_153029	NEDD4 binding protein 1
+133	96	hsa-miR-195-5p	8611	PLPP1	NM_003711	phospholipid phosphatase 1
+134	96	hsa-miR-195-5p	51058	ZNF691	NM_001242739	zinc finger protein 691
+135	96	hsa-miR-195-5p	85364	ZCCHC3	NM_033089	zinc finger CCHC-type containing 3
+136	96	hsa-miR-195-5p	255488	RNF144B	NM_182757	ring finger protein 144B
+137	96	hsa-miR-195-5p	145407	ARMH4	NM_001001872	armadillo-like helical domain containing 4
+138	96	hsa-miR-195-5p	57167	SALL4	NM_001318031	spalt like transcription factor 4
+139	96	hsa-miR-195-5p	28996	HIPK2	NM_001113239	homeodomain interacting protein kinase 2
+140	96	hsa-miR-195-5p	9519	TBPL1	NM_001253676	TATA-box binding protein like 1
+141	96	hsa-miR-195-5p	283078	MKX	NM_001242702	mohawk homeobox
+142	96	hsa-miR-195-5p	25790	CFAP45	NM_012337	cilia and flagella associated protein 45
+143	96	hsa-miR-195-5p	246175	CNOT6L	NM_001286790	CCR4-NOT transcription complex subunit 6 like
+144	96	hsa-miR-195-5p	80031	SEMA6D	NM_153619	semaphorin 6D
+145	96	hsa-miR-195-5p	5991	RFX3	NM_001282116	regulatory factor X3
+146	96	hsa-miR-195-5p	84733	CBX2	NM_005189	chromobox 2
+147	96	hsa-miR-195-5p	10673	TNFSF13B	NM_001145645	TNF superfamily member 13b
+148	96	hsa-miR-195-5p	1896	EDA	NM_001005609	ectodysplasin A
+149	96	hsa-miR-195-5p	10802	SEC24A	NM_021982	SEC24 homolog A, COPII coat complex component
+150	96	hsa-miR-195-5p	11275	KLHL2	NM_001161521	kelch like family member 2
+151	96	hsa-miR-195-5p	5048	PAFAH1B1	NM_000430	platelet activating factor acetylhydrolase 1b regulatory subunit 1
+152	96	hsa-miR-195-5p	5774	PTPN3	NM_001145368	protein tyrosine phosphatase, non-receptor type 3
+153	96	hsa-miR-195-5p	403341	ZBTB34	NM_001099270	zinc finger and BTB domain containing 34
+154	96	hsa-miR-195-5p	846	CASR	NM_000388	calcium sensing receptor
+155	96	hsa-miR-195-5p	4638	MYLK	NM_001321309	myosin light chain kinase
+156	96	hsa-miR-195-5p	8030	CCDC6	NM_005436	coiled-coil domain containing 6
+157	96	hsa-miR-195-5p	5049	PAFAH1B2	NM_002572	platelet activating factor acetylhydrolase 1b catalytic subunit 2
+158	96	hsa-miR-195-5p	8774	NAPG	NM_003826	NSF attachment protein gamma
+159	96	hsa-miR-195-5p	23710	GABARAPL1	NM_031412	GABA type A receptor associated protein like 1
+160	96	hsa-miR-195-5p	195828	ZNF367	NM_153695	zinc finger protein 367
+161	96	hsa-miR-191-5p	84461	NEURL4	NM_001005408	neuralized E3 ubiquitin protein ligase 4
+162	95	hsa-miR-155-5p	10451	VAV3	NM_001079874	vav guanine nucleotide exchange factor 3
+163	95	hsa-miR-155-5p	57616	TSHZ3	NM_020856	teashirt zinc finger homeobox 3
+164	95	hsa-miR-155-5p	23710	GABARAPL1	NM_031412	GABA type A receptor associated protein like 1
+165	95	hsa-miR-155-5p	2992	GYG1	NM_001184721	glycogenin 1
+166	95	hsa-miR-155-5p	284058	KANSL1	NM_001193465	KAT8 regulatory NSL complex subunit 1
+167	95	hsa-miR-155-5p	4603	MYBL1	NM_001080416	MYB proto-oncogene like 1
+168	95	hsa-miR-155-5p	94241	TP53INP1	NM_001135733	tumor protein p53 inducible nuclear protein 1
+169	95	hsa-miR-155-5p	9827	RGP1	NM_001080496	RGP1 homolog, RAB6A GEF complex partner 1
+170	95	hsa-miR-150-5p	3199	HOXA2	NM_006735	homeobox A2
+171	95	hsa-miR-150-5p	199713	NLRP7	NM_139176	NLR family pyrin domain containing 7
+172	95	hsa-miR-150-5p	260293	CYP4X1	NM_001320289	cytochrome P450 family 4 subfamily X member 1
+173	95	hsa-miR-150-3p	153222	CREBRF	NM_153607	CREB3 regulatory factor
+174	95	hsa-miR-150-3p	9181	ARHGEF2	NM_001162383	Rho/Rac guanine nucleotide exchange factor 2
+175	95	hsa-miR-150-3p	51318	MRPL35	NM_016622	mitochondrial ribosomal protein L35
+176	95	hsa-miR-150-3p	129303	TMEM150A	NM_001031738	transmembrane protein 150A
+177	95	hsa-miR-150-3p	5048	PAFAH1B1	NM_000430	platelet activating factor acetylhydrolase 1b regulatory subunit 1
+178	95	hsa-miR-150-3p	1795	DOCK3	NM_004947	dedicator of cytokinesis 3
+179	95	hsa-miR-197-5p	254428	SLC41A1	NM_173854	solute carrier family 41 member 1
+180	95	hsa-miR-197-5p	5202	PFDN2	NM_012394	prefoldin subunit 2
+181	95	hsa-miR-197-3p	6760	SS18	NM_001007559	SS18, nBAF chromatin remodeling complex subunit
+182	95	hsa-miR-197-3p	56256	SERTAD4	NM_019605	SERTA domain containing 4
+183	95	hsa-miR-197-3p	54802	TRIT1	NM_001312691	tRNA isopentenyltransferase 1
+184	95	hsa-miR-195-5p	64393	ZMAT3	NM_022470	zinc finger matrin-type 3
+185	95	hsa-miR-195-5p	56061	UBFD1	NM_019116	ubiquitin family domain containing 1
+186	95	hsa-miR-195-5p	79094	CHAC1	NM_001142776	ChaC glutathione specific gamma-glutamylcyclotransferase 1
+187	95	hsa-miR-195-5p	55165	CEP55	NM_001127182	centrosomal protein 55
+188	95	hsa-miR-195-5p	64768	IPPK	NM_022755	inositol-pentakisphosphate 2-kinase
+189	95	hsa-miR-195-5p	7422	VEGFA	NM_001171627	vascular endothelial growth factor A
+190	95	hsa-miR-195-5p	91584	PLXNA4	NM_020911	plexin A4
+191	95	hsa-miR-195-5p	3799	KIF5B	NM_004521	kinesin family member 5B
+192	95	hsa-miR-195-5p	9113	LATS1	NM_004690	large tumor suppressor kinase 1
+193	95	hsa-miR-195-5p	84193	SETD3	NM_032233	SET domain containing 3, actin histidine methyltransferase
+194	95	hsa-miR-195-5p	5604	MAP2K1	NM_002755	mitogen-activated protein kinase kinase 1
+195	95	hsa-miR-195-5p	57154	SMURF1	NM_001199847	SMAD specific E3 ubiquitin protein ligase 1
+196	95	hsa-miR-195-5p	29761	USP25	NM_001283041	ubiquitin specific peptidase 25
+197	95	hsa-miR-195-5p	6814	STXBP3	NM_007269	syntaxin binding protein 3
+198	95	hsa-miR-195-5p	2260	FGFR1	NM_023110	fibroblast growth factor receptor 1
+199	95	hsa-miR-195-5p	4603	MYBL1	NM_001080416	MYB proto-oncogene like 1
+200	95	hsa-miR-195-5p	23131	GPATCH8	NM_001002909	G-patch domain containing 8
+201	95	hsa-miR-195-5p	8535	CBX4	NM_003655	chromobox 4
+202	95	hsa-miR-191-5p	6877	TAF5	NM_139052	TATA-box binding protein associated factor 5
+203	94	hsa-miR-155-5p	26065	LSM14A	NM_001114093	LSM14A, mRNA processing body assembly factor
+204	94	hsa-miR-155-5p	5756	TWF1	NM_002822	twinfilin actin binding protein 1
+205	94	hsa-miR-155-5p	23471	TRAM1	NM_014294	translocation associated membrane protein 1
+206	94	hsa-miR-155-5p	23333	DPY19L1	NM_015283	dpy-19 like C-mannosyltransferase 1
+207	94	hsa-miR-155-5p	84433	CARD11	NM_001324281	caspase recruitment domain family member 11
+208	94	hsa-miR-155-5p	254251	LCORL	NM_153686	ligand dependent nuclear receptor corepressor like
+209	94	hsa-miR-155-5p	1870	E2F2	NM_004091	E2F transcription factor 2
+210	94	hsa-miR-155-5p	6197	RPS6KA3	NM_004586	ribosomal protein S6 kinase A3
+211	94	hsa-miR-155-5p	22954	TRIM32	NM_001099679	tripartite motif containing 32
+212	94	hsa-miR-150-5p	23788	MTCH2	NM_001317231	mitochondrial carrier 2
+213	94	hsa-miR-150-5p	219749	ZNF25	NM_145011	zinc finger protein 25
+214	94	hsa-miR-150-5p	3992	FADS1	NM_013402	fatty acid desaturase 1
+215	94	hsa-miR-150-5p	29923	HILPDA	NM_001098786	hypoxia inducible lipid droplet associated
+216	94	hsa-miR-150-5p	55033	FKBP14	NM_017946	FKBP prolyl isomerase 14
+217	94	hsa-miR-150-5p	8728	ADAM19	NM_033274	ADAM metallopeptidase domain 19
+218	94	hsa-miR-150-5p	80854	SETD7	NM_001306200	SET domain containing 7, histone lysine methyltransferase
+219	94	hsa-miR-150-5p	9883	POM121	NM_172020	POM121 transmembrane nucleoporin
+220	94	hsa-miR-150-3p	79734	KCTD17	NM_024681	potassium channel tetramerization domain containing 17
+221	94	hsa-miR-150-3p	3098	HK1	NM_000188	hexokinase 1
+222	94	hsa-miR-197-5p	942	CD86	NM_001206925	CD86 molecule
+223	94	hsa-miR-197-3p	10735	STAG2	NM_001282418	stromal antigen 2
+224	94	hsa-miR-197-3p	100862671	TMEM265	NM_001256829	transmembrane protein 265
+225	94	hsa-miR-197-3p	2107	ETF1	NM_001291975	eukaryotic translation termination factor 1
+226	94	hsa-miR-197-3p	55787	TXLNG	NM_001168683	taxilin gamma
+227	94	hsa-miR-197-3p	23348	DOCK9	NM_001318849	dedicator of cytokinesis 9
+228	94	hsa-miR-197-3p	54497	HEATR5B	NM_019024	HEAT repeat containing 5B
+229	94	hsa-miR-195-5p	57338	JPH3	NM_001271605	junctophilin 3
+230	94	hsa-miR-195-5p	84132	USP42	NM_032172	ubiquitin specific peptidase 42
+231	94	hsa-miR-195-5p	55437	STRADB	NM_001206864	STE20 related adaptor beta
+232	94	hsa-miR-195-5p	154214	RNF217	NM_152553	ring finger protein 217
+233	94	hsa-miR-195-5p	54674	LRRN3	NM_001099658	leucine rich repeat neuronal 3
+234	94	hsa-miR-195-5p	134957	STXBP5	NM_001127715	syntaxin binding protein 5
+235	94	hsa-miR-195-5p	79776	ZFHX4	NM_024721	zinc finger homeobox 4
+236	94	hsa-miR-195-5p	595	CCND1	NM_053056	cyclin D1
+237	94	hsa-miR-195-5p	90441	ZNF622	NM_033414	zinc finger protein 622
+238	94	hsa-miR-195-5p	5801	PTPRR	NM_001207015	protein tyrosine phosphatase, receptor type R
+239	94	hsa-miR-195-5p	6311	ATXN2	NM_001310121	ataxin 2
+240	94	hsa-miR-195-5p	223082	ZNRF2	NM_147128	zinc and ring finger 2
+241	94	hsa-miR-195-5p	441161	OOEP	NM_001080507	oocyte expressed protein
+242	94	hsa-miR-195-5p	22824	HSPA4L	NM_001317382	heat shock protein family A (Hsp70) member 4 like
+243	94	hsa-miR-195-5p	55214	P3H2	NM_001134418	prolyl 3-hydroxylase 2
+244	94	hsa-miR-195-5p	9880	ZBTB39	NM_014830	zinc finger and BTB domain containing 39
+245	94	hsa-miR-195-5p	6734	SRPRA	NM_001177842	SRP receptor subunit alpha
+246	94	hsa-miR-195-5p	65267	WNK3	NM_001002838	WNK lysine deficient protein kinase 3
+247	94	hsa-miR-195-5p	6992	PPP1R11	NM_021959	protein phosphatase 1 regulatory inhibitor subunit 11
+248	94	hsa-miR-195-5p	1654	DDX3X	NM_001356	DEAD-box helicase 3 X-linked
+249	94	hsa-miR-195-5p	9860	LRIG2	NM_001312686	leucine rich repeats and immunoglobulin like domains 2
+250	94	hsa-miR-195-5p	396	ARHGDIA	NM_001185077	Rho GDP dissociation inhibitor alpha
+251	94	hsa-miR-195-5p	5519	PPP2R1B	NM_001177562	protein phosphatase 2 scaffold subunit Abeta
+252	94	hsa-miR-195-5p	55802	DCP1A	NM_001290204	decapping mRNA 1A
+253	94	hsa-miR-195-5p	1111	CHEK1	NM_001274	checkpoint kinase 1
+254	94	hsa-miR-195-5p	4974	OMG	NM_002544	oligodendrocyte myelin glycoprotein
+255	94	hsa-miR-195-5p	114805	GALNT13	NM_001301627	polypeptide N-acetylgalactosaminyltransferase 13
+256	94	hsa-miR-191-5p	1387	CREBBP	NM_001079846	CREB binding protein
+257	93	hsa-miR-155-5p	55632	G2E3	NM_001308097	G2/M-phase specific E3 ubiquitin protein ligase
+258	93	hsa-miR-155-5p	90007	MIDN	NM_177401	midnolin
+259	93	hsa-miR-155-5p	8853	ASAP2	NM_001135191	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2
+260	93	hsa-miR-155-5p	4602	MYB	NM_001130172	MYB proto-oncogene, transcription factor
+261	93	hsa-miR-155-5p	7091	TLE4	NM_007005	TLE family member 4, transcriptional corepressor
+262	93	hsa-miR-155-5p	81566	CSRNP2	NM_030809	cysteine and serine rich nuclear protein 2
+263	93	hsa-miR-155-5p	203547	VMA21	NM_001017980	VMA21, vacuolar ATPase assembly factor
+264	93	hsa-miR-155-5p	7465	WEE1	NM_001143976	WEE1 G2 checkpoint kinase
+265	93	hsa-miR-155-5p	3097	HIVEP2	NM_006734	human immunodeficiency virus type I enhancer binding protein 2
+266	93	hsa-miR-155-5p	7776	ZNF236	NM_007345	zinc finger protein 236
+267	93	hsa-miR-155-5p	1455	CSNK1G2	NM_001319	casein kinase 1 gamma 2
+268	93	hsa-miR-150-5p	5737	PTGFR	NM_001039585	prostaglandin F receptor
+269	93	hsa-miR-150-5p	8773	SNAP23	NM_003825	synaptosome associated protein 23
+270	93	hsa-miR-150-5p	64924	SLC30A5	NM_022902	solute carrier family 30 member 5
+271	93	hsa-miR-150-5p	55827	DCAF6	NM_001198957	DDB1 and CUL4 associated factor 6
+272	93	hsa-miR-150-5p	1027	CDKN1B	NM_004064	cyclin dependent kinase inhibitor 1B
+273	93	hsa-miR-150-5p	64065	PERP	NM_022121	PERP, TP53 apoptosis effector
+274	93	hsa-miR-150-5p	118788	PIK3AP1	NM_152309	phosphoinositide-3-kinase adaptor protein 1
+275	93	hsa-miR-150-5p	4297	KMT2A	NM_001197104	lysine methyltransferase 2A
+276	93	hsa-miR-150-3p	9935	MAFB	NM_005461	MAF bZIP transcription factor B
+277	93	hsa-miR-150-3p	6416	MAP2K4	NM_001281435	mitogen-activated protein kinase kinase 4
+278	93	hsa-miR-150-3p	55667	DENND4C	NM_017925	DENN domain containing 4C
+279	93	hsa-miR-150-3p	7326	UBE2G1	NM_003342	ubiquitin conjugating enzyme E2 G1
+280	93	hsa-miR-150-3p	29966	STRN3	NM_001083893	striatin 3
+281	93	hsa-miR-150-3p	51673	TPPP3	NM_016140	tubulin polymerization promoting protein family member 3
+282	93	hsa-miR-197-5p	80205	CHD9	NM_001308319	chromodomain helicase DNA binding protein 9
+283	93	hsa-miR-197-5p	7678	ZNF124	NM_003431	zinc finger protein 124
+284	93	hsa-miR-197-3p	523	ATP6V1A	NM_001690	ATPase H+ transporting V1 subunit A
+285	93	hsa-miR-197-3p	9118	INA	NM_032727	internexin neuronal intermediate filament protein alpha
+286	93	hsa-miR-197-3p	1500	CTNND1	NM_001085458	catenin delta 1
+287	93	hsa-miR-197-3p	54455	FBXO42	NM_018994	F-box protein 42
+288	93	hsa-miR-197-3p	4205	MEF2A	NM_001130926	myocyte enhancer factor 2A
+289	93	hsa-miR-195-5p	10097	ACTR2	NM_001005386	ARP2 actin related protein 2 homolog
+290	93	hsa-miR-195-5p	2690	GHR	NM_001242462	growth hormone receptor
+291	93	hsa-miR-195-5p	9044	BTAF1	NM_003972	B-TFIID TATA-box binding protein associated factor 1
+292	93	hsa-miR-195-5p	23080	AVL9	NM_015060	AVL9 cell migration associated
+293	93	hsa-miR-195-5p	9881	TRANK1	NM_014831	tetratricopeptide repeat and ankyrin repeat containing 1
+294	93	hsa-miR-195-5p	84961	FBXL20	NM_001184906	F-box and leucine rich repeat protein 20
+295	93	hsa-miR-195-5p	85458	DIXDC1	NM_001037954	DIX domain containing 1
+296	93	hsa-miR-195-5p	9354	UBE4A	NM_001204077	ubiquitination factor E4A
+297	93	hsa-miR-195-5p	9927	MFN2	NM_001127660	mitofusin 2
+298	93	hsa-miR-195-5p	89780	WNT3A	NM_033131	Wnt family member 3A
+299	93	hsa-miR-195-5p	9306	SOCS6	NM_004232	suppressor of cytokine signaling 6
+300	93	hsa-miR-195-5p	200014	CC2D1B	NM_032449	coiled-coil and C2 domain containing 1B
+301	93	hsa-miR-195-5p	23231	SEL1L3	NM_001297592	SEL1L family member 3
+302	93	hsa-miR-195-5p	221937	FOXK1	NM_001037165	forkhead box K1
+303	93	hsa-miR-195-5p	84258	SYT3	NM_001160328	synaptotagmin 3
+304	93	hsa-miR-195-5p	3339	HSPG2	NM_001291860	heparan sulfate proteoglycan 2
+305	93	hsa-miR-195-5p	23607	CD2AP	NM_012120	CD2 associated protein
+306	93	hsa-miR-195-5p	904	CCNT1	NM_001277842	cyclin T1
+307	93	hsa-miR-195-5p	51430	SUCO	NM_001282750	SUN domain containing ossification factor
+308	93	hsa-miR-195-5p	4644	MYO5A	NM_000259	myosin VA
+309	93	hsa-miR-195-5p	154810	AMOTL1	NM_001301007	angiomotin like 1
+310	93	hsa-miR-195-5p	23189	KANK1	NM_001256876	KN motif and ankyrin repeat domains 1
+311	93	hsa-miR-195-5p	3516	RBPJ	NM_005349	recombination signal binding protein for immunoglobulin kappa J region
+312	93	hsa-miR-195-5p	84144	SYDE2	NM_032184	synapse defective Rho GTPase homolog 2
+313	93	hsa-miR-195-5p	23731	TMEM245	NM_032012	transmembrane protein 245
+314	93	hsa-miR-195-5p	6197	RPS6KA3	NM_004586	ribosomal protein S6 kinase A3
+315	93	hsa-miR-195-5p	10154	PLXNC1	NM_005761	plexin C1
+316	93	hsa-miR-195-5p	26276	VPS33B	NM_001289148	VPS33B, late endosome and lysosome associated
+317	93	hsa-miR-195-5p	55605	KIF21A	NM_001173463	kinesin family member 21A
+318	92	hsa-miR-155-5p	4087	SMAD2	NM_001003652	SMAD family member 2
+319	92	hsa-miR-155-5p	7750	ZMYM2	NM_001190964	zinc finger MYM-type containing 2
+320	92	hsa-miR-155-5p	196528	ARID2	NM_152641	AT-rich interaction domain 2
+321	92	hsa-miR-155-5p	55070	DET1	NM_001144074	DET1, COP1 ubiquitin ligase partner
+322	92	hsa-miR-155-5p	57615	ZNF492	NM_020855	zinc finger protein 492
+323	92	hsa-miR-155-5p	389073	C2orf80	NM_001099334	chromosome 2 open reading frame 80
+324	92	hsa-miR-155-5p	29979	UBQLN1	NM_053067	ubiquilin 1
+325	92	hsa-miR-155-5p	342371	ATXN1L	NM_001137675	ataxin 1 like
+326	92	hsa-miR-155-5p	23389	MED13L	NM_015335	mediator complex subunit 13 like
+327	92	hsa-miR-155-5p	344787	ZNF860	NM_001137674	zinc finger protein 860
+328	92	hsa-miR-150-5p	9126	SMC3	NM_005445	structural maintenance of chromosomes 3
+329	92	hsa-miR-150-5p	5150	PDE7A	NM_002603	phosphodiesterase 7A
+330	92	hsa-miR-150-5p	3687	ITGAX	NM_000887	integrin subunit alpha X
+331	92	hsa-miR-150-5p	126298	IRGQ	NM_001007561	immunity related GTPase Q
+332	92	hsa-miR-150-5p	339967	TMPRSS11A	NM_182606	transmembrane serine protease 11A
+333	92	hsa-miR-150-5p	9589	WTAP	NM_001270531	WT1 associated protein
+334	92	hsa-miR-150-3p	374395	TMEM179B	NM_199337	transmembrane protein 179B
+335	92	hsa-miR-150-3p	83591	THAP2	NM_031435	THAP domain containing 2
+336	92	hsa-miR-150-3p	7525	YES1	NM_005433	YES proto-oncogene 1, Src family tyrosine kinase
+337	92	hsa-miR-150-3p	5325	PLAGL1	NM_001289046	PLAG1 like zinc finger 1
+338	92	hsa-miR-150-3p	57147	SCYL3	NM_020423	SCY1 like pseudokinase 3
+339	92	hsa-miR-150-3p	9559	VPS26A	NM_001318944	VPS26, retromer complex component A
+340	92	hsa-miR-197-5p	9962	SLC23A2	NM_005116	solute carrier family 23 member 2
+341	92	hsa-miR-197-5p	23468	CBX5	NM_001127321	chromobox 5
+342	92	hsa-miR-197-5p	11024	LILRA1	NM_006863	leukocyte immunoglobulin like receptor A1
+343	92	hsa-miR-197-3p	3451	IFNA17	NM_021268	interferon alpha 17
+344	92	hsa-miR-197-3p	4899	NRF1	NM_001293163	nuclear respiratory factor 1
+345	92	hsa-miR-197-3p	3486	IGFBP3	NM_000598	insulin like growth factor binding protein 3
+346	92	hsa-miR-197-3p	151011	SEPT10	NM_001321505	septin 10
+347	92	hsa-miR-197-3p	3441	IFNA4	NM_021068	interferon alpha 4
+348	92	hsa-miR-197-3p	339318	ZNF181	NM_001029997	zinc finger protein 181
+349	92	hsa-miR-195-5p	7750	ZMYM2	NM_001190964	zinc finger MYM-type containing 2
+350	92	hsa-miR-195-5p	6612	SUMO3	NM_001286416	small ubiquitin-like modifier 3
+351	92	hsa-miR-195-5p	143384	CACUL1	NM_153810	CDK2 associated cullin domain 1
+352	92	hsa-miR-195-5p	9063	PIAS2	NM_001324046	protein inhibitor of activated STAT 2
+353	92	hsa-miR-195-5p	92	ACVR2A	NM_001278579	activin A receptor type 2A
+354	92	hsa-miR-195-5p	6908	TBP	NM_001172085	TATA-box binding protein
+355	92	hsa-miR-195-5p	65975	STK33	NM_001289059	serine/threonine kinase 33
+356	92	hsa-miR-195-5p	9353	SLIT2	NM_001289135	slit guidance ligand 2
+357	92	hsa-miR-195-5p	23039	XPO7	NM_015024	exportin 7
+358	92	hsa-miR-195-5p	1871	E2F3	NM_001243076	E2F transcription factor 3
+359	92	hsa-miR-195-5p	4092	SMAD7	NM_001190821	SMAD family member 7
+360	92	hsa-miR-195-5p	6299	SALL1	NM_001127892	spalt like transcription factor 1
+361	92	hsa-miR-195-5p	91746	YTHDC1	NM_001031732	YTH domain containing 1
+362	92	hsa-miR-195-5p	1106	CHD2	NM_001271	chromodomain helicase DNA binding protein 2
+363	92	hsa-miR-195-5p	81563	C1orf21	NM_030806	chromosome 1 open reading frame 21
+364	92	hsa-miR-195-5p	6558	SLC12A2	NM_001046	solute carrier family 12 member 2
+365	92	hsa-miR-195-5p	23023	TMCC1	NM_001128224	transmembrane and coiled-coil domain family 1
+366	92	hsa-miR-195-5p	64326	COP1	NM_001001740	COP1, E3 ubiquitin ligase
+367	92	hsa-miR-195-5p	9508	ADAMTS3	NM_014243	ADAM metallopeptidase with thrombospondin type 1 motif 3
+368	92	hsa-miR-195-5p	192670	AGO4	NM_017629	argonaute RISC catalytic component 4
+369	92	hsa-miR-195-5p	54207	KCNK10	NM_021161	potassium two pore domain channel subfamily K member 10
+370	92	hsa-miR-195-5p	55870	ASH1L	NM_018489	ASH1 like histone lysine methyltransferase
+371	92	hsa-miR-195-5p	5887	RAD23B	NM_001244713	RAD23 homolog B, nucleotide excision repair protein
+372	92	hsa-miR-195-5p	23409	SIRT4	NM_012240	sirtuin 4
+373	92	hsa-miR-195-5p	100507421	TMEM178B	NM_001195278	transmembrane protein 178B
+374	92	hsa-miR-195-5p	9921	RNF10	NM_014868	ring finger protein 10
+375	92	hsa-miR-195-5p	961	CD47	NM_198793	CD47 molecule
+376	92	hsa-miR-195-5p	80173	IFT74	NM_001099222	intraflagellar transport 74
+377	92	hsa-miR-195-5p	5741	PTH	NM_000315	parathyroid hormone
+378	92	hsa-miR-195-5p	55632	G2E3	NM_001308097	G2/M-phase specific E3 ubiquitin protein ligase
+379	92	hsa-miR-195-5p	127002	ATXN7L2	NM_153340	ataxin 7 like 2
+380	92	hsa-miR-195-5p	9516	LITAF	NM_001136473	lipopolysaccharide induced TNF factor
+381	92	hsa-miR-195-5p	337880	KRTAP11-1	NM_175858	keratin associated protein 11-1
+382	92	hsa-miR-195-5p	388630	TRABD2B	NM_001194986	TraB domain containing 2B
+383	92	hsa-miR-195-5p	203523	ZNF449	NM_152695	zinc finger protein 449
+384	92	hsa-miR-195-5p	79137	RETREG2	NM_024293	reticulophagy regulator family member 2
+385	92	hsa-miR-195-5p	28514	DLL1	NM_005618	delta like canonical Notch ligand 1
+386	92	hsa-miR-195-5p	374354	NHLRC2	NM_198514	NHL repeat containing 2
+387	92	hsa-miR-195-5p	6575	SLC20A2	NM_001257180	solute carrier family 20 member 2
+388	92	hsa-miR-195-5p	80018	NAA25	NM_024953	N(alpha)-acetyltransferase 25, NatB auxiliary subunit
+389	92	hsa-miR-195-5p	27074	LAMP3	NM_014398	lysosomal associated membrane protein 3
+390	92	hsa-miR-195-5p	92703	TMEM183A	NM_001322956	transmembrane protein 183A
+391	92	hsa-miR-195-5p	993	CDC25A	NM_001789	cell division cycle 25A
+392	92	hsa-miR-195-5p	4223	MEOX2	NM_005924	mesenchyme homeobox 2
+393	92	hsa-miR-195-5p	93107	KCNG4	NM_172347	potassium voltage-gated channel modifier subfamily G member 4
+394	92	hsa-miR-195-5p	22849	CPEB3	NM_001178137	cytoplasmic polyadenylation element binding protein 3
+395	92	hsa-miR-195-5p	51320	MEX3C	NM_016626	mex-3 RNA binding family member C
+396	92	hsa-miR-195-5p	27253	PCDH17	NM_001040429	protocadherin 17
+397	91	hsa-miR-155-5p	153918	ZC2HC1B	NM_001013623	zinc finger C2HC-type containing 1B
+398	91	hsa-miR-155-5p	7187	TRAF3	NM_001199427	TNF receptor associated factor 3
+399	91	hsa-miR-155-5p	360023	ZBTB41	NM_194314	zinc finger and BTB domain containing 41
+400	91	hsa-miR-155-5p	1780	DYNC1I1	NM_001278421	dynein cytoplasmic 1 intermediate chain 1
+401	91	hsa-miR-155-5p	23678	SGK3	NM_001033578	serum/glucocorticoid regulated kinase family member 3
+402	91	hsa-miR-155-5p	1436	CSF1R	NM_005211	colony stimulating factor 1 receptor
+403	91	hsa-miR-155-5p	4286	MITF	NM_000248	melanocyte inducing transcription factor
+404	91	hsa-miR-155-5p	9037	SEMA5A	NM_003966	semaphorin 5A
+405	91	hsa-miR-155-5p	9412	MED21	NM_001271811	mediator complex subunit 21
+406	91	hsa-miR-155-5p	285175	UNC80	NM_032504	unc-80 homolog, NALCN channel complex subunit
+407	91	hsa-miR-155-5p	83932	SPRTN	NM_032018	SprT-like N-terminal domain
+408	91	hsa-miR-150-5p	102724951	LOC102724951	NM_001322036	uncharacterized LOC102724951
+409	91	hsa-miR-150-5p	1983	EIF5	NM_183004	eukaryotic translation initiation factor 5
+410	91	hsa-miR-150-5p	5578	PRKCA	NM_002737	protein kinase C alpha
+411	91	hsa-miR-150-5p	6480	ST6GAL1	NM_003032	ST6 beta-galactoside alpha-2,6-sialyltransferase 1
+412	91	hsa-miR-150-5p	54799	MBTD1	NM_017643	mbt domain containing 1
+413	91	hsa-miR-150-5p	10891	PPARGC1A	NM_013261	PPARG coactivator 1 alpha
+414	91	hsa-miR-150-5p	6667	SP1	NM_003109	Sp1 transcription factor
+415	91	hsa-miR-150-5p	92597	MOB1B	NM_001244767	MOB kinase activator 1B
+416	91	hsa-miR-150-5p	9798	IST1	NM_014761	IST1, ESCRT-III associated factor
+417	91	hsa-miR-150-5p	22882	ZHX2	NM_014943	zinc fingers and homeoboxes 2
+418	91	hsa-miR-150-5p	102723360	LOC102723360	NM_001322975	uncharacterized LOC102723360
+419	91	hsa-miR-150-5p	102724219	LOC102724219	NM_001322044	uncharacterized LOC102724219
+420	91	hsa-miR-150-5p	55275	VPS53	NM_001128159	VPS53, GARP complex subunit
+421	91	hsa-miR-150-5p	867	CBL	NM_005188	Cbl proto-oncogene
+422	91	hsa-miR-150-5p	2048	EPHB2	NM_001309192	EPH receptor B2
+423	91	hsa-miR-150-5p	644139	PIRT	NM_001101387	phosphoinositide interacting regulator of transient receptor potential channels
+424	91	hsa-miR-150-5p	102724843	LOC102724843	NM_001322047	uncharacterized LOC102724843
+425	91	hsa-miR-150-5p	79068	FTO	NM_001080432	FTO, alpha-ketoglutarate dependent dioxygenase
+426	91	hsa-miR-150-5p	54629	MINDY2	NM_001040453	MINDY lysine 48 deubiquitinase 2
+427	91	hsa-miR-150-5p	51606	ATP6V1H	NM_015941	ATPase H+ transporting V1 subunit H
+428	91	hsa-miR-150-3p	8577	TMEFF1	NM_003692	transmembrane protein with EGF like and two follistatin like domains 1
+429	91	hsa-miR-150-3p	6421	SFPQ	NM_005066	splicing factor proline and glutamine rich
+430	91	hsa-miR-150-3p	8038	ADAM12	NM_001288973	ADAM metallopeptidase domain 12
+431	91	hsa-miR-150-3p	6326	SCN2A	NM_001040142	sodium voltage-gated channel alpha subunit 2
+432	91	hsa-miR-150-3p	257397	TAB3	NM_152787	TGF-beta activated kinase 1 (MAP3K7) binding protein 3
+433	91	hsa-miR-150-3p	6328	SCN3A	NM_001081676	sodium voltage-gated channel alpha subunit 3
+434	91	hsa-miR-150-3p	80725	SRCIN1	NM_025248	SRC kinase signaling inhibitor 1
+435	91	hsa-miR-150-3p	100526694	MSANTD3-TMEFF1	NM_001198812	MSANTD3-TMEFF1 readthrough
+436	91	hsa-miR-197-3p	5981	RFC1	NM_001204747	replication factor C subunit 1
+437	91	hsa-miR-197-3p	80778	ZNF34	NM_001286769	zinc finger protein 34
+438	91	hsa-miR-197-3p	8726	EED	NM_001308007	embryonic ectoderm development
+439	91	hsa-miR-197-3p	27443	CECR2	NM_001290046	CECR2, histone acetyl-lysine reader
+440	91	hsa-miR-197-3p	23760	PITPNB	NM_001284278	phosphatidylinositol transfer protein beta
+441	91	hsa-miR-197-3p	1207	CLNS1A	NM_001311201	chloride nucleotide-sensitive channel 1A
+442	91	hsa-miR-197-3p	7357	UGCG	NM_003358	UDP-glucose ceramide glucosyltransferase
+443	91	hsa-miR-197-3p	317762	CCDC85C	NM_001144995	coiled-coil domain containing 85C
+444	91	hsa-miR-197-3p	7706	TRIM25	NM_005082	tripartite motif containing 25
+445	91	hsa-miR-195-5p	222255	ATXN7L1	NM_020725	ataxin 7 like 1
+446	91	hsa-miR-195-5p	150094	SIK1	NM_173354	salt inducible kinase 1
+447	91	hsa-miR-195-5p	3643	INSR	NM_000208	insulin receptor
+448	91	hsa-miR-195-5p	5451	POU2F1	NM_001198783	POU class 2 homeobox 1
+449	91	hsa-miR-195-5p	84133	ZNRF3	NM_001206998	zinc and ring finger 3
+450	91	hsa-miR-195-5p	9575	CLOCK	NM_001267843	clock circadian regulator
+451	91	hsa-miR-195-5p	81871	KRTAP4-6	NM_030976	keratin associated protein 4-6
+452	91	hsa-miR-195-5p	56990	CDC42SE2	NM_001038702	CDC42 small effector 2
+453	91	hsa-miR-195-5p	463	ZFHX3	NM_001164766	zinc finger homeobox 3
+454	91	hsa-miR-195-5p	79807	GSTCD	NM_001031720	glutathione S-transferase C-terminal domain containing
+455	91	hsa-miR-195-5p	5494	PPM1A	NM_021003	protein phosphatase, Mg2+/Mn2+ dependent 1A
+456	91	hsa-miR-195-5p	4842	NOS1	NM_000620	nitric oxide synthase 1
+457	91	hsa-miR-195-5p	79705	LRRK1	NM_024652	leucine rich repeat kinase 1
+458	91	hsa-miR-195-5p	27330	RPS6KA6	NM_014496	ribosomal protein S6 kinase A6
+459	91	hsa-miR-195-5p	7092	TLL1	NM_012464	tolloid like 1
+460	91	hsa-miR-195-5p	2145	EZH1	NM_001321079	enhancer of zeste 1 polycomb repressive complex 2 subunit
+461	91	hsa-miR-195-5p	10558	SPTLC1	NM_006415	serine palmitoyltransferase long chain base subunit 1
+462	91	hsa-miR-195-5p	54815	GATAD2A	NM_017660	GATA zinc finger domain containing 2A
+463	91	hsa-miR-195-5p	139285	AMER1	NM_152424	APC membrane recruitment protein 1
+464	91	hsa-miR-195-5p	120071	LARGE2	NM_001300721	LARGE xylosyl- and glucuronyltransferase 2
+465	91	hsa-miR-195-5p	5915	RARB	NM_000965	retinoic acid receptor beta
+466	91	hsa-miR-195-5p	23091	ZC3H13	NM_015070	zinc finger CCCH-type containing 13
+467	91	hsa-miR-195-5p	7812	CSDE1	NM_001007553	cold shock domain containing E1
+468	91	hsa-miR-191-5p	729438	CASTOR2	NM_001145064	cytosolic arginine sensor for mTORC1 subunit 2
+469	90	hsa-miR-155-5p	27143	PALD1	NM_014431	phosphatase domain containing paladin 1
+470	90	hsa-miR-155-5p	59338	PLEKHA1	NM_001001974	pleckstrin homology domain containing A1
+471	90	hsa-miR-155-5p	253260	RICTOR	NM_001285439	RPTOR independent companion of MTOR complex 2
+472	90	hsa-miR-155-5p	56062	KLHL4	NM_019117	kelch like family member 4
+473	90	hsa-miR-155-5p	6885	MAP3K7	NM_145331	mitogen-activated protein kinase kinase kinase 7
+474	90	hsa-miR-150-5p	26234	FBXL5	NM_001193535	F-box and leucine rich repeat protein 5
+475	90	hsa-miR-150-5p	30820	KCNIP1	NM_001034837	potassium voltage-gated channel interacting protein 1
+476	90	hsa-miR-150-5p	55776	SAYSD1	NM_001304793	SAYSVFN motif domain containing 1
+477	90	hsa-miR-150-5p	3843	IPO5	NM_002271	importin 5
+478	90	hsa-miR-150-5p	8502	PKP4	NM_001005476	plakophilin 4
+479	90	hsa-miR-150-5p	55364	IMPACT	NM_018439	impact RWD domain protein
+480	90	hsa-miR-150-5p	80829	ZFP91	NM_001197051	ZFP91 zinc finger protein
+481	90	hsa-miR-150-5p	10371	SEMA3A	NM_006080	semaphorin 3A
+482	90	hsa-miR-150-5p	10794	ZNF460	NM_006635	zinc finger protein 460
+483	90	hsa-miR-150-5p	63967	CLSPN	NM_022111	claspin
+484	90	hsa-miR-150-5p	84631	SLITRK2	NM_001144003	SLIT and NTRK like family member 2
+485	90	hsa-miR-150-3p	91664	ZNF845	NM_001321522	zinc finger protein 845
+486	90	hsa-miR-150-3p	7750	ZMYM2	NM_001190964	zinc finger MYM-type containing 2
+487	90	hsa-miR-150-3p	23177	CEP68	NM_015147	centrosomal protein 68
+488	90	hsa-miR-150-3p	29883	CNOT7	NM_001322094	CCR4-NOT transcription complex subunit 7
+489	90	hsa-miR-150-3p	51554	ACKR4	NM_016557	atypical chemokine receptor 4
+490	90	hsa-miR-150-3p	1634	DCN	NM_001920	decorin
+491	90	hsa-miR-150-3p	151011	SEPT10	NM_001321511	septin 10
+492	90	hsa-miR-150-3p	3182	HNRNPAB	NM_004499	heterogeneous nuclear ribonucleoprotein A/B
+493	90	hsa-miR-197-5p	80329	ULBP1	NM_025218	UL16 binding protein 1
+494	90	hsa-miR-197-5p	26033	ATRNL1	NM_207303	attractin like 1
+495	90	hsa-miR-197-3p	2138	EYA1	NM_172060	EYA transcriptional coactivator and phosphatase 1
+496	90	hsa-miR-197-3p	130507	UBR3	NM_172070	ubiquitin protein ligase E3 component n-recognin 3
+497	90	hsa-miR-197-3p	5599	MAPK8	NM_001278548	mitogen-activated protein kinase 8
+498	90	hsa-miR-197-3p	254528	MEIOB	NM_152764	meiosis specific with OB domains
+499	90	hsa-miR-197-3p	1495	CTNNA1	NM_001323987	catenin alpha 1
+500	90	hsa-miR-197-3p	10231	RCAN2	NM_001251973	regulator of calcineurin 2
+501	90	hsa-miR-195-5p	26100	WIPI2	NM_001033518	WD repeat domain, phosphoinositide interacting 2
+502	90	hsa-miR-195-5p	29842	TFCP2L1	NM_014553	transcription factor CP2 like 1
+503	90	hsa-miR-195-5p	8851	CDK5R1	NM_003885	cyclin dependent kinase 5 regulatory subunit 1
+504	90	hsa-miR-195-5p	7049	TGFBR3	NM_001195683	transforming growth factor beta receptor 3
+505	90	hsa-miR-195-5p	4735	SEPT2	NM_001321032	septin 2
+506	90	hsa-miR-195-5p	9175	MAP3K13	NM_001242314	mitogen-activated protein kinase kinase kinase 13
+507	90	hsa-miR-195-5p	257415	FAM133B	NM_001040057	family with sequence similarity 133 member B
+508	90	hsa-miR-195-5p	143630	UBQLNL	NM_145053	ubiquilin like
+509	90	hsa-miR-195-5p	9866	TRIM66	NM_014818	tripartite motif containing 66
+510	90	hsa-miR-195-5p	91748	ELMSAN1	NM_001043318	ELM2 and Myb/SANT domain containing 1
+511	90	hsa-miR-195-5p	205	AK4	NM_001005353	adenylate kinase 4
+512	90	hsa-miR-195-5p	11057	ABHD2	NM_007011	abhydrolase domain containing 2
+513	90	hsa-miR-195-5p	51299	NRN1	NM_001278710	neuritin 1
+514	90	hsa-miR-195-5p	22859	ADGRL1	NM_001008701	adhesion G protein-coupled receptor L1
+515	90	hsa-miR-195-5p	3720	JARID2	NM_001267040	jumonji and AT-rich interaction domain containing 2
+516	90	hsa-miR-195-5p	11276	SYNRG	NM_001163544	synergin gamma
+517	90	hsa-miR-195-5p	57478	USP31	NM_020718	ubiquitin specific peptidase 31
+518	90	hsa-miR-195-5p	10371	SEMA3A	NM_006080	semaphorin 3A
+519	90	hsa-miR-195-5p	257397	TAB3	NM_152787	TGF-beta activated kinase 1 (MAP3K7) binding protein 3
+520	90	hsa-miR-195-5p	26018	LRIG1	NM_015541	leucine rich repeats and immunoglobulin like domains 1
+521	90	hsa-miR-195-5p	79905	TMC7	NM_001324265	transmembrane channel like 7
+522	90	hsa-miR-195-5p	163486	DENND1B	NM_001195215	DENN domain containing 1B
+523	90	hsa-miR-195-5p	51209	RAB9B	NM_016370	RAB9B, member RAS oncogene family
+524	90	hsa-miR-195-5p	154796	AMOT	NM_001113490	angiomotin
+525	90	hsa-miR-195-5p	10979	FERMT2	NM_001134999	fermitin family member 2
+526	90	hsa-miR-195-5p	387597	ILDR2	NM_199351	immunoglobulin like domain containing receptor 2
+527	90	hsa-miR-195-5p	64651	CSRNP1	NM_001320560	cysteine and serine rich nuclear protein 1
+528	90	hsa-miR-195-5p	7182	NR2C2	NM_001291694	nuclear receptor subfamily 2 group C member 2
+529	90	hsa-miR-195-5p	8178	ELL	NM_006532	elongation factor for RNA polymerase II
+530	90	hsa-miR-195-5p	400073	C12orf76	NM_207435	chromosome 12 open reading frame 76
+531	90	hsa-miR-195-5p	9530	BAG4	NM_001204878	BCL2 associated athanogene 4
+532	90	hsa-miR-191-5p	29767	TMOD2	NM_001142885	tropomodulin 2
+533	89	hsa-miR-155-5p	26512	INTS6	NM_001306091	integrator complex subunit 6
+534	89	hsa-miR-155-5p	22841	RAB11FIP2	NM_014904	RAB11 family interacting protein 2
+535	89	hsa-miR-155-5p	1182	CLCN3	NM_001243372	chloride voltage-gated channel 3
+536	89	hsa-miR-155-5p	29966	STRN3	NM_001083893	striatin 3
+537	89	hsa-miR-155-5p	143458	LDLRAD3	NM_001304264	low density lipoprotein receptor class A domain containing 3
+538	89	hsa-miR-155-5p	23118	TAB2	NM_001292034	TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+539	89	hsa-miR-155-5p	948	CD36	NM_001001548	CD36 molecule
+540	89	hsa-miR-155-5p	5955	RCN2	NM_002902	reticulocalbin 2
+541	89	hsa-miR-155-5p	170959	ZNF431	NM_001319124	zinc finger protein 431
+542	89	hsa-miR-150-5p	7184	HSP90B1	NM_003299	heat shock protein 90 beta family member 1
+543	89	hsa-miR-150-5p	130074	FAM168B	NM_001321744	family with sequence similarity 168 member B
+544	89	hsa-miR-150-5p	54806	AHI1	NM_001134832	Abelson helper integration site 1
+545	89	hsa-miR-150-5p	100101267	POM121C	NM_001099415	POM121 transmembrane nucleoporin C
+546	89	hsa-miR-150-5p	51465	UBE2J1	NM_016021	ubiquitin conjugating enzyme E2 J1
+547	89	hsa-miR-150-5p	10749	KIF1C	NM_006612	kinesin family member 1C
+548	89	hsa-miR-150-5p	133874	C5orf58	NM_001305394	chromosome 5 open reading frame 58
+549	89	hsa-miR-150-5p	84883	AIFM2	NM_032797	apoptosis inducing factor, mitochondria associated 2
+550	89	hsa-miR-150-3p	124540	MSI2	NM_001322250	musashi RNA binding protein 2
+551	89	hsa-miR-150-3p	8575	PRKRA	NM_001139517	protein activator of interferon induced protein kinase EIF2AK2
+552	89	hsa-miR-150-3p	2534	FYN	NM_002037	FYN proto-oncogene, Src family tyrosine kinase
+553	89	hsa-miR-150-3p	5168	ENPP2	NM_001040092	ectonucleotide pyrophosphatase/phosphodiesterase 2
+554	89	hsa-miR-150-3p	5738	PTGFRN	NM_020440	prostaglandin F2 receptor inhibitor
+555	89	hsa-miR-150-3p	54877	ZCCHC2	NM_017742	zinc finger CCHC-type containing 2
+556	89	hsa-miR-150-3p	23348	DOCK9	NM_001318849	dedicator of cytokinesis 9
+557	89	hsa-miR-150-3p	57492	ARID1B	NM_017519	AT-rich interaction domain 1B
+558	89	hsa-miR-150-3p	54521	WDR44	NM_001184965	WD repeat domain 44
+559	89	hsa-miR-150-3p	8829	NRP1	NM_003873	neuropilin 1
+560	89	hsa-miR-150-3p	54968	TMEM70	NM_001040613	transmembrane protein 70
+561	89	hsa-miR-150-3p	6477	SIAH1	NM_003031	siah E3 ubiquitin protein ligase 1
+562	89	hsa-miR-150-3p	4306	NR3C2	NM_000901	nuclear receptor subfamily 3 group C member 2
+563	89	hsa-miR-197-5p	414899	BLID	NM_001001786	BH3-like motif containing, cell death inducer
+564	89	hsa-miR-197-5p	84152	PPP1R1B	NM_001242464	protein phosphatase 1 regulatory inhibitor subunit 1B
+565	89	hsa-miR-197-5p	96764	TGS1	NM_024831	trimethylguanosine synthase 1
+566	89	hsa-miR-197-5p	57002	YAE1	NM_001282446	YAE1, ABCE1 maturation factor
+567	89	hsa-miR-197-5p	7011	TEP1	NM_001319035	telomerase associated protein 1
+568	89	hsa-miR-197-5p	22921	MSRB2	NM_012228	methionine sulfoxide reductase B2
+569	89	hsa-miR-197-3p	55156	ARMC1	NM_001286702	armadillo repeat containing 1
+570	89	hsa-miR-197-3p	51060	TXNDC12	NM_015913	thioredoxin domain containing 12
+571	89	hsa-miR-197-3p	9570	GOSR2	NM_001321134	golgi SNAP receptor complex member 2
+572	89	hsa-miR-197-3p	26009	ZZZ3	NM_001308237	zinc finger ZZ-type containing 3
+573	89	hsa-miR-197-3p	5033	P4HA1	NM_000917	prolyl 4-hydroxylase subunit alpha 1
+574	89	hsa-miR-195-5p	9149	DYRK1B	NM_004714	dual specificity tyrosine phosphorylation regulated kinase 1B
+575	89	hsa-miR-195-5p	64288	ZSCAN31	NM_145909	zinc finger and SCAN domain containing 31
+576	89	hsa-miR-195-5p	118987	PDZD8	NM_173791	PDZ domain containing 8
+577	89	hsa-miR-195-5p	84364	ARFGAP2	NM_001242832	ADP ribosylation factor GTPase activating protein 2
+578	89	hsa-miR-195-5p	3551	IKBKB	NM_001190720	inhibitor of nuclear factor kappa B kinase subunit beta
+579	89	hsa-miR-195-5p	5128	CDK17	NM_002595	cyclin dependent kinase 17
+580	89	hsa-miR-195-5p	9475	ROCK2	NM_001321643	Rho associated coiled-coil containing protein kinase 2
+581	89	hsa-miR-195-5p	10908	PNPLA6	NM_001166111	patatin like phospholipase domain containing 6
+582	89	hsa-miR-195-5p	9441	MED26	NM_004831	mediator complex subunit 26
+583	89	hsa-miR-195-5p	342371	ATXN1L	NM_001137675	ataxin 1 like
+584	89	hsa-miR-195-5p	3671	ISLR	NM_201526	immunoglobulin superfamily containing leucine rich repeat
+585	89	hsa-miR-195-5p	11108	PRDM4	NM_012406	PR/SET domain 4
+586	89	hsa-miR-195-5p	102724428	SIK1B	NM_001320643	salt inducible kinase 1B (putative)
+587	89	hsa-miR-195-5p	6497	SKI	NM_003036	SKI proto-oncogene
+588	89	hsa-miR-195-5p	4335	MNT	NM_020310	MAX network transcriptional repressor
+589	89	hsa-miR-195-5p	23466	CBX6	NM_001303494	chromobox 6
+590	89	hsa-miR-195-5p	55742	PARVA	NM_018222	parvin alpha
+591	89	hsa-miR-195-5p	8569	MKNK1	NM_198973	MAP kinase interacting serine/threonine kinase 1
+592	89	hsa-miR-195-5p	154	ADRB2	NM_000024	adrenoceptor beta 2
+593	89	hsa-miR-195-5p	51727	CMPK1	NM_001136140	cytidine/uridine monophosphate kinase 1
+594	89	hsa-miR-195-5p	1303	COL12A1	NM_004370	collagen type XII alpha 1 chain
+595	89	hsa-miR-195-5p	26135	SERBP1	NM_001018067	SERPINE1 mRNA binding protein 1
+596	89	hsa-miR-195-5p	55500	ETNK1	NM_018638	ethanolamine kinase 1
+597	89	hsa-miR-195-5p	23294	ANKS1A	NM_015245	ankyrin repeat and sterile alpha motif domain containing 1A
+598	89	hsa-miR-195-5p	25994	HIGD1A	NM_001099668	HIG1 hypoxia inducible domain family member 1A
+599	89	hsa-miR-195-5p	64919	BCL11B	NM_001282237	BCL11B, BAF complex component
+600	89	hsa-miR-195-5p	9743	ARHGAP32	NM_001142685	Rho GTPase activating protein 32
+601	89	hsa-miR-195-5p	387522	TMEM189-UBE2V1	NM_199203	TMEM189-UBE2V1 readthrough
+602	89	hsa-miR-195-5p	157769	FAM91A1	NM_001317917	family with sequence similarity 91 member A1
+603	89	hsa-miR-195-5p	54437	SEMA5B	NM_001256348	semaphorin 5B
+604	89	hsa-miR-195-5p	6446	SGK1	NM_001143676	serum/glucocorticoid regulated kinase 1
+605	89	hsa-miR-195-5p	6247	RS1	NM_000330	retinoschisin 1
+606	89	hsa-miR-195-5p	55529	PIP4P2	NM_018710	phosphatidylinositol-4,5-bisphosphate 4-phosphatase 2
+607	89	hsa-miR-195-5p	56994	CHPT1	NM_020244	choline phosphotransferase 1
+608	89	hsa-miR-195-5p	5649	RELN	NM_005045	reelin
+609	89	hsa-miR-195-5p	5101	PCDH9	NM_001318372	protocadherin 9
+610	89	hsa-miR-195-5p	1183	CLCN4	NM_001256944	chloride voltage-gated channel 4
+611	88	hsa-miR-155-5p	54838	WBP1L	NM_001083913	WW domain binding protein 1 like
+612	88	hsa-miR-155-5p	6239	RREB1	NM_001003698	ras responsive element binding protein 1
+613	88	hsa-miR-155-5p	9641	IKBKE	NM_001193322	inhibitor of nuclear factor kappa B kinase subunit epsilon
+614	88	hsa-miR-155-5p	2592	GALT	NM_000155	galactose-1-phosphate uridylyltransferase
+615	88	hsa-miR-155-5p	51479	ANKFY1	NM_001257999	ankyrin repeat and FYVE domain containing 1
+616	88	hsa-miR-155-5p	4642	MYO1D	NM_015194	myosin ID
+617	88	hsa-miR-155-5p	23583	SMUG1	NM_001243787	single-strand-selective monofunctional uracil-DNA glycosylase 1
+618	88	hsa-miR-155-5p	122402	TDRD9	NM_153046	tudor domain containing 9
+619	88	hsa-miR-155-5p	8653	DDX3Y	NM_001302552	DEAD-box helicase 3 Y-linked
+620	88	hsa-miR-155-5p	1051	CEBPB	NM_001285878	CCAAT enhancer binding protein beta
+621	88	hsa-miR-155-5p	64839	FBXL17	NM_001163315	F-box and leucine rich repeat protein 17
+622	88	hsa-miR-155-5p	51156	SERPINA10	NM_001100607	serpin family A member 10
+623	88	hsa-miR-150-5p	57379	AICDA	NM_020661	activation induced cytidine deaminase
+624	88	hsa-miR-150-5p	6935	ZEB1	NM_001128128	zinc finger E-box binding homeobox 1
+625	88	hsa-miR-150-5p	2566	GABRG2	NM_198904	gamma-aminobutyric acid type A receptor gamma2 subunit
+626	88	hsa-miR-150-5p	56829	ZC3HAV1	NM_020119	zinc finger CCCH-type containing, antiviral 1
+627	88	hsa-miR-150-5p	23291	FBXW11	NM_012300	F-box and WD repeat domain containing 11
+628	88	hsa-miR-150-5p	23253	ANKRD12	NM_001083625	ankyrin repeat domain 12
+629	88	hsa-miR-150-5p	149041	RC3H1	NM_001300850	ring finger and CCCH-type domains 1
+630	88	hsa-miR-150-5p	157695	TDRP	NM_175075	testis development related protein
+631	88	hsa-miR-150-3p	55454	CSGALNACT2	NM_018590	chondroitin sulfate N-acetylgalactosaminyltransferase 2
+632	88	hsa-miR-150-3p	284323	ZNF780A	NM_001010880	zinc finger protein 780A
+633	88	hsa-miR-150-3p	57585	CRAMP1	NM_020825	cramped chromatin regulator homolog 1
+634	88	hsa-miR-150-3p	6495	SIX1	NM_005982	SIX homeobox 1
+635	88	hsa-miR-150-3p	54855	TENT5C	NM_017709	terminal nucleotidyltransferase 5C
+636	88	hsa-miR-150-3p	463	ZFHX3	NM_001164766	zinc finger homeobox 3
+637	88	hsa-miR-150-3p	57520	HECW2	NM_001304840	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2
+638	88	hsa-miR-150-3p	83478	ARHGAP24	NM_001025616	Rho GTPase activating protein 24
+639	88	hsa-miR-150-3p	5563	PRKAA2	NM_006252	protein kinase AMP-activated catalytic subunit alpha 2
+640	88	hsa-miR-150-3p	144245	ALG10B	NM_001013620	ALG10B, alpha-1,2-glucosyltransferase
+641	88	hsa-miR-197-5p	55196	RESF1	NM_018169	retroelement silencing factor 1
+642	88	hsa-miR-197-5p	8187	ZNF239	NM_005674	zinc finger protein 239
+643	88	hsa-miR-197-5p	223075	ITPRID1	NM_194300	ITPR interacting domain containing 1
+644	88	hsa-miR-197-5p	634	CEACAM1	NM_001024912	carcinoembryonic antigen related cell adhesion molecule 1
+645	88	hsa-miR-197-3p	23186	RCOR1	NM_015156	REST corepressor 1
+646	88	hsa-miR-197-3p	310	ANXA7	NM_001156	annexin A7
+647	88	hsa-miR-197-3p	64769	MEAF6	NM_001270875	MYST/Esa1 associated factor 6
+648	88	hsa-miR-197-3p	23446	SLC44A1	NM_080546	solute carrier family 44 member 1
+649	88	hsa-miR-197-3p	8831	SYNGAP1	NM_006772	synaptic Ras GTPase activating protein 1
+650	88	hsa-miR-195-5p	285343	TCAIM	NM_001282913	T cell activation inhibitor, mitochondrial
+651	88	hsa-miR-195-5p	2045	EPHA7	NM_001288629	EPH receptor A7
+652	88	hsa-miR-195-5p	203197	TMEM268	NM_153045	transmembrane protein 268
+653	88	hsa-miR-195-5p	781	CACNA2D1	NM_000722	calcium voltage-gated channel auxiliary subunit alpha2delta 1
+654	88	hsa-miR-195-5p	158158	RASEF	NM_152573	RAS and EF-hand domain containing
+655	88	hsa-miR-195-5p	6239	RREB1	NM_001003698	ras responsive element binding protein 1
+656	88	hsa-miR-195-5p	4076	CAPRIN1	NM_005898	cell cycle associated protein 1
+657	88	hsa-miR-195-5p	54583	EGLN1	NM_022051	egl-9 family hypoxia inducible factor 1
+658	88	hsa-miR-195-5p	23215	PRRC2C	NM_015172	proline rich coiled-coil 2C
+659	88	hsa-miR-195-5p	387119	CEP85L	NM_001042475	centrosomal protein 85 like
+660	88	hsa-miR-195-5p	10180	RBM6	NM_005777	RNA binding motif protein 6
+661	88	hsa-miR-195-5p	90332	EXOC3L2	NM_138568	exocyst complex component 3 like 2
+662	88	hsa-miR-195-5p	55664	CDC37L1	NM_017913	cell division cycle 37 like 1
+663	88	hsa-miR-195-5p	60592	SCOC	NM_001153446	short coiled-coil protein
+664	88	hsa-miR-195-5p	55008	HERC6	NM_001165136	HECT and RLD domain containing E3 ubiquitin protein ligase family member 6
+665	88	hsa-miR-195-5p	2779	GNAT1	NM_000172	G protein subunit alpha transducin 1
+666	88	hsa-miR-195-5p	1812	DRD1	NM_000794	dopamine receptor D1
+667	88	hsa-miR-195-5p	643	CXCR5	NM_032966	C-X-C motif chemokine receptor 5
+668	88	hsa-miR-195-5p	10130	PDIA6	NM_001282704	protein disulfide isomerase family A member 6
+669	88	hsa-miR-195-5p	5930	RBBP6	NM_006910	RB binding protein 6, ubiquitin ligase
+670	88	hsa-miR-195-5p	5295	PIK3R1	NM_001242466	phosphoinositide-3-kinase regulatory subunit 1
+671	88	hsa-miR-195-5p	9958	USP15	NM_001252078	ubiquitin specific peptidase 15
+672	88	hsa-miR-195-5p	55824	PAG1	NM_018440	phosphoprotein membrane anchor with glycosphingolipid microdomains 1
+673	88	hsa-miR-195-5p	64089	SNX16	NM_152836	sorting nexin 16
+674	88	hsa-miR-195-5p	10625	IVNS1ABP	NM_006469	influenza virus NS1A binding protein
+675	88	hsa-miR-195-5p	7476	WNT7A	NM_004625	Wnt family member 7A
+676	88	hsa-miR-195-5p	6629	SNRPB2	NM_003092	small nuclear ribonucleoprotein polypeptide B2
+677	88	hsa-miR-195-5p	9444	QKI	NM_206855	QKI, KH domain containing RNA binding
+678	88	hsa-miR-195-5p	9988	DMTF1	NM_021145	cyclin D binding myb like transcription factor 1
+679	88	hsa-miR-195-5p	4040	LRP6	NM_002336	LDL receptor related protein 6
+680	88	hsa-miR-195-5p	9689	BZW1	NM_001207069	basic leucine zipper and W2 domains 1
+681	88	hsa-miR-195-5p	145773	FAM81A	NM_152450	family with sequence similarity 81 member A
+682	88	hsa-miR-195-5p	221710	SMIM13	NM_001135575	small integral membrane protein 13
+683	88	hsa-miR-195-5p	27165	GLS2	NM_001280796	glutaminase 2
+684	88	hsa-miR-195-5p	25843	MOB4	NM_001204094	MOB family member 4, phocein
+685	88	hsa-miR-195-5p	3159	HMGA1	NM_001319079	high mobility group AT-hook 1
+686	88	hsa-miR-195-5p	4645	MYO5B	NM_001080467	myosin VB
+687	88	hsa-miR-191-5p	7082	TJP1	NM_001301025	tight junction protein 1
+688	87	hsa-miR-155-5p	57379	AICDA	NM_020661	activation induced cytidine deaminase
+689	87	hsa-miR-155-5p	220988	HNRNPA3	NM_194247	heterogeneous nuclear ribonucleoprotein A3
+690	87	hsa-miR-155-5p	867	CBL	NM_005188	Cbl proto-oncogene
+691	87	hsa-miR-155-5p	202018	TAPT1	NM_153365	transmembrane anterior posterior transformation 1
+692	87	hsa-miR-155-5p	6597	SMARCA4	NM_001128844	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4
+693	87	hsa-miR-155-5p	118429	ANTXR2	NM_001286780	ANTXR cell adhesion molecule 2
+694	87	hsa-miR-155-5p	79960	JADE1	NM_001287439	jade family PHD finger 1
+695	87	hsa-miR-155-5p	5948	RBP2	NM_004164	retinol binding protein 2
+696	87	hsa-miR-155-5p	27032	ATP2C1	NM_001199179	ATPase secretory pathway Ca2+ transporting 1
+697	87	hsa-miR-155-5p	3570	IL6R	NM_181359	interleukin 6 receptor
+698	87	hsa-miR-155-5p	284161	GDPD1	NM_001165993	glycerophosphodiester phosphodiesterase domain containing 1
+699	87	hsa-miR-155-5p	57758	SCUBE2	NM_020974	signal peptide, CUB domain and EGF like domain containing 2
+700	87	hsa-miR-155-5p	2554	GABRA1	NM_001127645	gamma-aminobutyric acid type A receptor alpha1 subunit
+701	87	hsa-miR-155-5p	9515	STXBP5L	NM_014980	syntaxin binding protein 5 like
+702	87	hsa-miR-155-5p	91653	BOC	NM_033254	BOC cell adhesion associated, oncogene regulated
+703	87	hsa-miR-155-5p	3845	KRAS	NM_033360	KRAS proto-oncogene, GTPase
+704	87	hsa-miR-155-5p	55917	CTTNBP2NL	NM_018704	CTTNBP2 N-terminal like
+705	87	hsa-miR-155-5p	8445	DYRK2	NM_003583	dual specificity tyrosine phosphorylation regulated kinase 2
+706	87	hsa-miR-155-5p	2252	FGF7	NM_002009	fibroblast growth factor 7
+707	87	hsa-miR-150-5p	3574	IL7	NM_000880	interleukin 7
+708	87	hsa-miR-150-5p	387700	SLC16A12	NM_213606	solute carrier family 16 member 12
+709	87	hsa-miR-150-5p	7124	TNF	NM_000594	tumor necrosis factor
+710	87	hsa-miR-150-5p	6241	RRM2	NM_001034	ribonucleotide reductase regulatory subunit M2
+711	87	hsa-miR-150-5p	79893	GGNBP2	NM_024835	gametogenetin binding protein 2
+712	87	hsa-miR-150-5p	55039	TRMT12	NM_017956	tRNA methyltransferase 12 homolog
+713	87	hsa-miR-150-5p	1362	CPD	NM_001199775	carboxypeptidase D
+714	87	hsa-miR-150-5p	80228	ORAI2	NM_001126340	ORAI calcium release-activated calcium modulator 2
+715	87	hsa-miR-150-5p	10090	UST	NM_005715	uronyl 2-sulfotransferase
+716	87	hsa-miR-150-5p	401548	SNX30	NM_001012994	sorting nexin family member 30
+717	87	hsa-miR-150-5p	83401	ELOVL3	NM_152310	ELOVL fatty acid elongase 3
+718	87	hsa-miR-150-5p	8639	AOC3	NM_001277732	amine oxidase, copper containing 3
+719	87	hsa-miR-150-5p	5694	PSMB6	NM_001270481	proteasome subunit beta 6
+720	87	hsa-miR-150-5p	8927	BSN	NM_003458	bassoon presynaptic cytomatrix protein
+721	87	hsa-miR-150-5p	57404	CYP20A1	NM_177538	cytochrome P450 family 20 subfamily A member 1
+722	87	hsa-miR-150-3p	26228	STAP1	NM_012108	signal transducing adaptor family member 1
+723	87	hsa-miR-150-3p	7073	TIAL1	NM_001033925	TIA1 cytotoxic granule associated RNA binding protein like 1
+724	87	hsa-miR-150-3p	22905	EPN2	NM_014964	epsin 2
+725	87	hsa-miR-150-3p	57544	TXNDC16	NM_020784	thioredoxin domain containing 16
+726	87	hsa-miR-150-3p	8503	PIK3R3	NM_001303428	phosphoinositide-3-kinase regulatory subunit 3
+727	87	hsa-miR-150-3p	654	BMP6	NM_001718	bone morphogenetic protein 6
+728	87	hsa-miR-150-3p	4602	MYB	NM_001161660	MYB proto-oncogene, transcription factor
+729	87	hsa-miR-150-3p	1859	DYRK1A	NM_001396	dual specificity tyrosine phosphorylation regulated kinase 1A
+730	87	hsa-miR-150-3p	1002	CDH4	NM_001252339	cadherin 4
+731	87	hsa-miR-150-3p	51377	UCHL5	NM_001199263	ubiquitin C-terminal hydrolase L5
+732	87	hsa-miR-197-5p	9688	NUP93	NM_014669	nucleoporin 93
+733	87	hsa-miR-197-5p	286336	FAM78A	NM_033387	family with sequence similarity 78 member A
+734	87	hsa-miR-197-5p	4651	MYO10	NM_012334	myosin X
+735	87	hsa-miR-197-5p	375743	PTAR1	NM_001099666	protein prenyltransferase alpha subunit repeat containing 1
+736	87	hsa-miR-197-3p	55266	TMEM19	NM_018279	transmembrane protein 19
+737	87	hsa-miR-197-3p	134637	ADAT2	NM_182503	adenosine deaminase, tRNA specific 2
+738	87	hsa-miR-197-3p	963	CD53	NM_001320638	CD53 molecule
+739	87	hsa-miR-197-3p	11056	DDX52	NM_001291476	DExD-box helicase 52
+740	87	hsa-miR-197-3p	9749	PHACTR2	NM_001100164	phosphatase and actin regulator 2
+741	87	hsa-miR-195-5p	6712	SPTBN2	NM_006946	spectrin beta, non-erythrocytic 2
+742	87	hsa-miR-195-5p	10111	RAD50	NM_005732	RAD50 double strand break repair protein
+743	87	hsa-miR-195-5p	206358	SLC36A1	NM_078483	solute carrier family 36 member 1
+744	87	hsa-miR-195-5p	57451	TENM2	NM_001080428	teneurin transmembrane protein 2
+745	87	hsa-miR-195-5p	5140	PDE3B	NM_000922	phosphodiesterase 3B
+746	87	hsa-miR-195-5p	3360	HTR4	NM_000870	5-hydroxytryptamine receptor 4
+747	87	hsa-miR-195-5p	56970	ATXN7L3	NM_001098833	ataxin 7 like 3
+748	87	hsa-miR-195-5p	59338	PLEKHA1	NM_001195608	pleckstrin homology domain containing A1
+749	87	hsa-miR-195-5p	1147	CHUK	NM_001278	conserved helix-loop-helix ubiquitous kinase
+750	87	hsa-miR-195-5p	84101	USP44	NM_001042403	ubiquitin specific peptidase 44
+751	87	hsa-miR-195-5p	23286	WWC1	NM_001161661	WW and C2 domain containing 1
+752	87	hsa-miR-195-5p	57568	SIPA1L2	NM_020808	signal induced proliferation associated 1 like 2
+753	87	hsa-miR-195-5p	90550	MCU	NM_001270679	mitochondrial calcium uniporter
+754	87	hsa-miR-195-5p	6745	SSR1	NM_001292008	signal sequence receptor subunit 1
+755	87	hsa-miR-195-5p	1523	CUX1	NM_001202543	cut like homeobox 1
+756	87	hsa-miR-195-5p	154661	RUNDC3B	NM_138290	RUN domain containing 3B
+757	87	hsa-miR-195-5p	5194	PEX13	NM_002618	peroxisomal biogenesis factor 13
+758	87	hsa-miR-195-5p	137970	UNC5D	NM_001322818	unc-5 netrin receptor D
+759	87	hsa-miR-195-5p	341208	HEPHL1	NM_001098672	hephaestin like 1
+760	87	hsa-miR-195-5p	8671	SLC4A4	NM_001098484	solute carrier family 4 member 4
+761	87	hsa-miR-195-5p	25831	HECTD1	NM_015382	HECT domain E3 ubiquitin protein ligase 1
+762	87	hsa-miR-195-5p	27183	VPS4A	NM_013245	vacuolar protein sorting 4 homolog A
+763	87	hsa-miR-195-5p	996	CDC27	NM_001293091	cell division cycle 27
+764	87	hsa-miR-195-5p	89796	NAV1	NM_001167738	neuron navigator 1
+765	87	hsa-miR-195-5p	5979	RET	NM_020975	ret proto-oncogene
+766	87	hsa-miR-195-5p	56181	MTFR1L	NM_001099627	mitochondrial fission regulator 1 like
+767	87	hsa-miR-195-5p	6538	SLC6A11	NM_014229	solute carrier family 6 member 11
+768	87	hsa-miR-195-5p	8653	DDX3Y	NM_001324195	DEAD-box helicase 3 Y-linked
+769	87	hsa-miR-195-5p	120863	DEPDC4	NM_001319311	DEP domain containing 4
+770	87	hsa-miR-191-5p	140689	CBLN4	NM_080617	cerebellin 4 precursor
+771	87	hsa-miR-191-5p	4259	MGST3	NM_004528	microsomal glutathione S-transferase 3
+772	86	hsa-miR-155-5p	123879	DCUN1D3	NM_173475	defective in cullin neddylation 1 domain containing 3
+773	86	hsa-miR-155-5p	5970	RELA	NM_001145138	RELA proto-oncogene, NF-kB subunit
+774	86	hsa-miR-155-5p	253461	ZBTB38	NM_001080412	zinc finger and BTB domain containing 38
+775	86	hsa-miR-155-5p	118611	C10orf90	NM_001004298	chromosome 10 open reading frame 90
+776	86	hsa-miR-155-5p	7857	SCG2	NM_003469	secretogranin II
+777	86	hsa-miR-155-5p	10938	EHD1	NM_001282444	EH domain containing 1
+778	86	hsa-miR-155-5p	54542	RC3H2	NM_001100588	ring finger and CCCH-type domains 2
+779	86	hsa-miR-155-5p	79665	DHX40	NM_024612	DEAH-box helicase 40
+780	86	hsa-miR-155-5p	9717	SEC14L5	NM_014692	SEC14 like lipid binding 5
+781	86	hsa-miR-155-5p	388650	DIPK1A	NM_001006605	divergent protein kinase domain 1A
+782	86	hsa-miR-155-5p	6304	SATB1	NM_001131010	SATB homeobox 1
+783	86	hsa-miR-155-5p	29775	CARD10	NM_014550	caspase recruitment domain family member 10
+784	86	hsa-miR-155-5p	55379	LRRC59	NM_018509	leucine rich repeat containing 59
+785	86	hsa-miR-155-5p	79809	TTC21B	NM_024753	tetratricopeptide repeat domain 21B
+786	86	hsa-miR-155-5p	8087	FXR1	NM_005087	FMR1 autosomal homolog 1
+787	86	hsa-miR-155-5p	7462	LAT2	NM_014146	linker for activation of T cells family member 2
+788	86	hsa-miR-155-5p	9020	MAP3K14	NM_003954	mitogen-activated protein kinase kinase kinase 14
+789	86	hsa-miR-155-5p	9319	TRIP13	NM_004237	thyroid hormone receptor interactor 13
+790	86	hsa-miR-155-5p	55041	PLEKHB2	NM_001267065	pleckstrin homology domain containing B2
+791	86	hsa-miR-150-5p	85364	ZCCHC3	NM_033089	zinc finger CCHC-type containing 3
+792	86	hsa-miR-150-5p	114785	MBD6	NM_052897	methyl-CpG binding domain protein 6
+793	86	hsa-miR-150-5p	219736	STOX1	NM_001130161	storkhead box 1
+794	86	hsa-miR-150-5p	284434	NWD1	NM_001290355	NACHT and WD repeat domain containing 1
+795	86	hsa-miR-150-5p	222068	TMED4	NM_001303060	transmembrane p24 trafficking protein 4
+796	86	hsa-miR-150-5p	6096	RORB	NM_006914	RAR related orphan receptor B
+797	86	hsa-miR-150-3p	262	AMD1	NM_001287214	adenosylmethionine decarboxylase 1
+798	86	hsa-miR-150-3p	116966	WDR17	NM_170710	WD repeat domain 17
+799	86	hsa-miR-150-3p	60682	SMAP1	NM_021940	small ArfGAP 1
+800	86	hsa-miR-150-3p	4254	KITLG	NM_003994	KIT ligand
+801	86	hsa-miR-150-3p	387357	THEMIS	NM_001318531	thymocyte selection associated
+802	86	hsa-miR-197-5p	64283	ARHGEF28	NM_001177693	Rho guanine nucleotide exchange factor 28
+803	86	hsa-miR-197-5p	30819	KCNIP2	NM_173194	potassium voltage-gated channel interacting protein 2
+804	86	hsa-miR-197-5p	284459	HKR1	NM_181786	HKR1, GLI-Kruppel zinc finger family member
+805	86	hsa-miR-197-5p	90780	PYGO2	NM_138300	pygopus family PHD finger 2
+806	86	hsa-miR-197-5p	10423	CDIPT	NM_001286585	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+807	86	hsa-miR-197-5p	10393	ANAPC10	NM_001256709	anaphase promoting complex subunit 10
+808	86	hsa-miR-197-3p	84890	ADO	NM_032804	2-aminoethanethiol dioxygenase
+809	86	hsa-miR-197-3p	6750	SST	NM_001048	somatostatin
+810	86	hsa-miR-197-3p	3717	JAK2	NM_001322194	Janus kinase 2
+811	86	hsa-miR-197-3p	10463	SLC30A9	NM_006345	solute carrier family 30 member 9
+812	86	hsa-miR-197-3p	27198	HCAR1	NM_032554	hydroxycarboxylic acid receptor 1
+813	86	hsa-miR-195-5p	311	ANXA11	NM_145869	annexin A11
+814	86	hsa-miR-195-5p	159090	FAM122B	NM_001166599	family with sequence similarity 122B
+815	86	hsa-miR-195-5p	23277	CLUH	NM_015229	clustered mitochondria homolog
+816	86	hsa-miR-195-5p	55312	RFK	NM_018339	riboflavin kinase
+817	86	hsa-miR-195-5p	3839	KPNA3	NM_002267	karyopherin subunit alpha 3
+818	86	hsa-miR-195-5p	51046	ST8SIA3	NM_015879	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3
+819	86	hsa-miR-195-5p	6895	TARBP2	NM_004178	TARBP2, RISC loading complex RNA binding subunit
+820	86	hsa-miR-195-5p	9960	USP3	NM_001256702	ubiquitin specific peptidase 3
+821	86	hsa-miR-195-5p	51809	GALNT7	NM_017423	polypeptide N-acetylgalactosaminyltransferase 7
+822	86	hsa-miR-195-5p	8549	LGR5	NM_001277226	leucine rich repeat containing G protein-coupled receptor 5
+823	86	hsa-miR-195-5p	50804	MYEF2	NM_001301210	myelin expression factor 2
+824	86	hsa-miR-195-5p	79693	YRDC	NM_024640	yrdC N6-threonylcarbamoyltransferase domain containing
+825	86	hsa-miR-195-5p	94134	ARHGAP12	NM_001270695	Rho GTPase activating protein 12
+826	86	hsa-miR-195-5p	1362	CPD	NM_001199775	carboxypeptidase D
+827	86	hsa-miR-195-5p	57181	SLC39A10	NM_001127257	solute carrier family 39 member 10
+828	86	hsa-miR-195-5p	9371	KIF3B	NM_004798	kinesin family member 3B
+829	86	hsa-miR-195-5p	6856	SYPL1	NM_182715	synaptophysin like 1
+830	86	hsa-miR-195-5p	8473	OGT	NM_181672	O-linked N-acetylglucosamine (GlcNAc) transferase
+831	86	hsa-miR-195-5p	23025	UNC13A	NM_001080421	unc-13 homolog A
+832	86	hsa-miR-195-5p	7533	YWHAH	NM_003405	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta
+833	86	hsa-miR-195-5p	55084	SOBP	NM_018013	sine oculis binding protein homolog
+834	86	hsa-miR-195-5p	159371	SLC35G1	NM_001134658	solute carrier family 35 member G1
+835	86	hsa-miR-195-5p	2670	GFAP	NM_002055	glial fibrillary acidic protein
+836	86	hsa-miR-195-5p	90809	PIP4P1	NM_144568	phosphatidylinositol-4,5-bisphosphate 4-phosphatase 1
+837	86	hsa-miR-195-5p	9552	SPAG7	NM_004890	sperm associated antigen 7
+838	86	hsa-miR-195-5p	3376	IARS	NM_002161	isoleucyl-tRNA synthetase
+839	86	hsa-miR-195-5p	1024	CDK8	NM_001260	cyclin dependent kinase 8
+840	86	hsa-miR-195-5p	29785	CYP2S1	NM_030622	cytochrome P450 family 2 subfamily S member 1
+841	86	hsa-miR-195-5p	7277	TUBA4A	NM_001278552	tubulin alpha 4a
+842	86	hsa-miR-195-5p	84870	RSPO3	NM_032784	R-spondin 3
+843	86	hsa-miR-195-5p	286148	DPY19L4	NM_181787	dpy-19 like 4
+844	86	hsa-miR-195-5p	5648	MASP1	NM_001879	mannan binding lectin serine peptidase 1
+845	86	hsa-miR-195-5p	64708	COPS7B	NM_001308381	COP9 signalosome subunit 7B
+846	86	hsa-miR-195-5p	4763	NF1	NM_000267	neurofibromin 1
+847	86	hsa-miR-195-5p	3783	KCNN4	NM_002250	potassium calcium-activated channel subfamily N member 4
+848	86	hsa-miR-195-5p	100272147	CMC4	NM_001018024	C-X9-C motif containing 4
+849	86	hsa-miR-195-5p	27244	SESN1	NM_001199933	sestrin 1
+850	86	hsa-miR-195-5p	6651	SON	NM_001291411	SON DNA binding protein
+851	86	hsa-miR-195-5p	28987	NOB1	NM_014062	NIN1 (RPN12) binding protein 1 homolog
+852	86	hsa-miR-195-5p	51729	WBP11	NM_016312	WW domain binding protein 11
+853	86	hsa-miR-195-5p	163259	DENND2C	NM_001256404	DENN domain containing 2C
+854	86	hsa-miR-195-5p	3206	HOXA10	NM_018951	homeobox A10
+855	86	hsa-miR-195-5p	57532	NUFIP2	NM_020772	nuclear FMR1 interacting protein 2
+856	86	hsa-miR-191-5p	23626	SPO11	NM_012444	SPO11, initiator of meiotic double stranded breaks
+857	86	hsa-miR-191-5p	80821	DDHD1	NM_001160147	DDHD domain containing 1
+858	86	hsa-miR-191-5p	54891	INO80D	NM_017759	INO80 complex subunit D
+859	85	hsa-miR-155-5p	10550	ARL6IP5	NM_006407	ADP ribosylation factor like GTPase 6 interacting protein 5
+860	85	hsa-miR-155-5p	2702	GJA5	NM_181703	gap junction protein alpha 5
+861	85	hsa-miR-155-5p	2113	ETS1	NM_005238	ETS proto-oncogene 1, transcription factor
+862	85	hsa-miR-155-5p	84188	FAR1	NM_032228	fatty acyl-CoA reductase 1
+863	85	hsa-miR-155-5p	23660	ZKSCAN5	NM_001318082	zinc finger with KRAB and SCAN domains 5
+864	85	hsa-miR-155-5p	957	ENTPD5	NM_001321988	ectonucleoside triphosphate diphosphohydrolase 5
+865	85	hsa-miR-155-5p	9321	TRIP11	NM_001321851	thyroid hormone receptor interactor 11
+866	85	hsa-miR-155-5p	9252	RPS6KA5	NM_001322227	ribosomal protein S6 kinase A5
+867	85	hsa-miR-155-5p	283461	C12orf40	NM_001031748	chromosome 12 open reading frame 40
+868	85	hsa-miR-155-5p	91404	SESTD1	NM_178123	SEC14 and spectrin domain containing 1
+869	85	hsa-miR-155-5p	139231	FAM199X	NM_207318	family with sequence similarity 199, X-linked
+870	85	hsa-miR-155-5p	7306	TYRP1	NM_000550	tyrosinase related protein 1
+871	85	hsa-miR-155-5p	64400	AKTIP	NM_001308325	AKT interacting protein
+872	85	hsa-miR-155-5p	55791	LRIF1	NM_018372	ligand dependent nuclear receptor interacting factor 1
+873	85	hsa-miR-155-5p	84515	MCM8	NM_001281520	minichromosome maintenance 8 homologous recombination repair factor
+874	85	hsa-miR-150-5p	57474	ZNF490	NM_020714	zinc finger protein 490
+875	85	hsa-miR-150-5p	55706	NDC1	NM_018087	NDC1 transmembrane nucleoporin
+876	85	hsa-miR-150-5p	22807	IKZF2	NM_016260	IKAROS family zinc finger 2
+877	85	hsa-miR-150-5p	339745	SPOPL	NM_001001664	speckle type BTB/POZ protein like
+878	85	hsa-miR-150-5p	1005	CDH7	NM_001317214	cadherin 7
+879	85	hsa-miR-150-5p	204219	CERS3	NM_001290341	ceramide synthase 3
+880	85	hsa-miR-150-5p	57659	ZBTB4	NM_020899	zinc finger and BTB domain containing 4
+881	85	hsa-miR-150-5p	85453	TSPYL5	NM_033512	TSPY like 5
+882	85	hsa-miR-150-5p	23457	ABCB9	NM_019624	ATP binding cassette subfamily B member 9
+883	85	hsa-miR-150-5p	9975	NR1D2	NM_001145425	nuclear receptor subfamily 1 group D member 2
+884	85	hsa-miR-150-5p	818	CAMK2G	NM_001204492	calcium/calmodulin dependent protein kinase II gamma
+885	85	hsa-miR-150-5p	6574	SLC20A1	NM_005415	solute carrier family 20 member 1
+886	85	hsa-miR-150-5p	2849	GPR26	NM_153442	G protein-coupled receptor 26
+887	85	hsa-miR-150-5p	7543	ZFX	NM_001178095	zinc finger protein X-linked
+888	85	hsa-miR-150-5p	23657	SLC7A11	NM_014331	solute carrier family 7 member 11
+889	85	hsa-miR-150-5p	148254	ZNF555	NM_152791	zinc finger protein 555
+890	85	hsa-miR-150-5p	387263	C6orf120	NM_001029863	chromosome 6 open reading frame 120
+891	85	hsa-miR-150-5p	5520	PPP2R2A	NM_001177591	protein phosphatase 2 regulatory subunit Balpha
+892	85	hsa-miR-150-5p	23567	ZNF346	NM_001308213	zinc finger protein 346
+893	85	hsa-miR-150-5p	7716	VEZF1	NM_007146	vascular endothelial zinc finger 1
+894	85	hsa-miR-150-5p	53616	ADAM22	NM_001324417	ADAM metallopeptidase domain 22
+895	85	hsa-miR-150-5p	2488	FSHB	NM_000510	follicle stimulating hormone subunit beta
+896	85	hsa-miR-150-3p	1387	CREBBP	NM_001079846	CREB binding protein
+897	85	hsa-miR-150-3p	115286	SLC25A26	NM_001164796	solute carrier family 25 member 26
+898	85	hsa-miR-150-3p	602	BCL3	NM_005178	BCL3, transcription coactivator
+899	85	hsa-miR-150-3p	84671	ZNF347	NM_032584	zinc finger protein 347
+900	85	hsa-miR-150-3p	56987	BBX	NM_001142568	BBX, HMG-box containing
+901	85	hsa-miR-150-3p	8622	PDE8B	NM_003719	phosphodiesterase 8B
+902	85	hsa-miR-150-3p	8763	CD164	NM_001142403	CD164 molecule
+903	85	hsa-miR-150-3p	6651	SON	NM_138927	SON DNA binding protein
+904	85	hsa-miR-150-3p	7322	UBE2D2	NM_003339	ubiquitin conjugating enzyme E2 D2
+905	85	hsa-miR-197-5p	2044	EPHA5	NM_001281767	EPH receptor A5
+906	85	hsa-miR-197-5p	26225	ARL5A	NM_012097	ADP ribosylation factor like GTPase 5A
+907	85	hsa-miR-197-5p	80012	PHC3	NM_001308116	polyhomeotic homolog 3
+908	85	hsa-miR-197-5p	604	BCL6	NM_001706	BCL6, transcription repressor
+909	85	hsa-miR-197-5p	115111	SLC26A7	NM_052832	solute carrier family 26 member 7
+910	85	hsa-miR-197-5p	93587	TRMT10A	NM_001134665	tRNA methyltransferase 10A
+911	85	hsa-miR-197-5p	81035	COLEC12	NM_130386	collectin subfamily member 12
+912	85	hsa-miR-197-5p	3572	IL6ST	NM_175767	interleukin 6 signal transducer
+913	85	hsa-miR-197-5p	6945	MLX	NM_198205	MLX, MAX dimerization protein
+914	85	hsa-miR-197-5p	344387	CDKL4	NM_001009565	cyclin dependent kinase like 4
+915	85	hsa-miR-197-3p	1435	CSF1	NM_000757	colony stimulating factor 1
+916	85	hsa-miR-197-3p	8483	CILP	NM_003613	cartilage intermediate layer protein
+917	85	hsa-miR-197-3p	80110	ZNF614	NM_025040	zinc finger protein 614
+918	85	hsa-miR-197-3p	4267	CD99	NM_001321367	CD99 molecule (Xg blood group)
+919	85	hsa-miR-197-3p	2257	FGF12	NM_021032	fibroblast growth factor 12
+920	85	hsa-miR-195-5p	57569	ARHGAP20	NM_001258415	Rho GTPase activating protein 20
+921	85	hsa-miR-195-5p	9367	RAB9A	NM_001195328	RAB9A, member RAS oncogene family
+922	85	hsa-miR-195-5p	7832	BTG2	NM_006763	BTG anti-proliferation factor 2
+923	85	hsa-miR-195-5p	10137	RBM12	NM_001198838	RNA binding motif protein 12
+924	85	hsa-miR-195-5p	54680	ZNHIT6	NM_001170670	zinc finger HIT-type containing 6
+925	85	hsa-miR-195-5p	253260	RICTOR	NM_001285439	RPTOR independent companion of MTOR complex 2
+926	85	hsa-miR-195-5p	941	CD80	NM_005191	CD80 molecule
+927	85	hsa-miR-195-5p	80314	EPC1	NM_001272004	enhancer of polycomb homolog 1
+928	85	hsa-miR-195-5p	5166	PDK4	NM_002612	pyruvate dehydrogenase kinase 4
+929	85	hsa-miR-195-5p	642273	FAM110C	NM_001077710	family with sequence similarity 110 member C
+930	85	hsa-miR-195-5p	4036	LRP2	NM_004525	LDL receptor related protein 2
+931	85	hsa-miR-195-5p	51	ACOX1	NM_001185039	acyl-CoA oxidase 1
+932	85	hsa-miR-195-5p	9648	GCC2	NM_181453	GRIP and coiled-coil domain containing 2
+933	85	hsa-miR-195-5p	4122	MAN2A2	NM_006122	mannosidase alpha class 2A member 2
+934	85	hsa-miR-195-5p	11321	GPN1	NM_001145047	GPN-loop GTPase 1
+935	85	hsa-miR-195-5p	6753	SSTR3	NM_001278687	somatostatin receptor 3
+936	85	hsa-miR-195-5p	862	RUNX1T1	NM_001198625	RUNX1 translocation partner 1
+937	85	hsa-miR-195-5p	23471	TRAM1	NM_014294	translocation associated membrane protein 1
+938	85	hsa-miR-195-5p	5013	OTX1	NM_001199770	orthodenticle homeobox 1
+939	85	hsa-miR-195-5p	57161	PELI2	NM_021255	pellino E3 ubiquitin protein ligase family member 2
+940	85	hsa-miR-195-5p	147007	TMEM199	NM_152464	transmembrane protein 199
+941	85	hsa-miR-195-5p	26137	ZBTB20	NM_001164342	zinc finger and BTB domain containing 20
+942	85	hsa-miR-195-5p	4775	NFATC3	NM_004555	nuclear factor of activated T cells 3
+943	85	hsa-miR-191-5p	6304	SATB1	NM_001131010	SATB homeobox 1
+944	84	hsa-miR-155-5p	10611	PDLIM5	NM_001256427	PDZ and LIM domain 5
+945	84	hsa-miR-155-5p	8493	PPM1D	NM_003620	protein phosphatase, Mg2+/Mn2+ dependent 1D
+946	84	hsa-miR-155-5p	6934	TCF7L2	NM_001146284	transcription factor 7 like 2
+947	84	hsa-miR-155-5p	5795	PTPRJ	NM_002843	protein tyrosine phosphatase, receptor type J
+948	84	hsa-miR-155-5p	7227	TRPS1	NM_001282903	transcriptional repressor GATA binding 1
+949	84	hsa-miR-155-5p	11168	PSIP1	NM_021144	PC4 and SFRS1 interacting protein 1
+950	84	hsa-miR-155-5p	284613	CYB561D1	NM_001134400	cytochrome b561 family member D1
+951	84	hsa-miR-155-5p	6667	SP1	NM_003109	Sp1 transcription factor
+952	84	hsa-miR-155-5p	57579	FAM135A	NM_020819	family with sequence similarity 135 member A
+953	84	hsa-miR-155-5p	51669	SARAF	NM_001284239	store-operated calcium entry associated regulatory factor
+954	84	hsa-miR-155-5p	22992	KDM2A	NM_001256405	lysine demethylase 2A
+955	84	hsa-miR-155-5p	10385	BTN2A2	NM_001197239	butyrophilin subfamily 2 member A2
+956	84	hsa-miR-155-5p	7399	USH2A	NM_206933	usherin
+957	84	hsa-miR-155-5p	3337	DNAJB1	NM_001300914	DnaJ heat shock protein family (Hsp40) member B1
+958	84	hsa-miR-155-5p	51028	VPS36	NM_001282168	vacuolar protein sorting 36 homolog
+959	84	hsa-miR-155-5p	253832	ZDHHC20	NM_001286638	zinc finger DHHC-type containing 20
+960	84	hsa-miR-155-5p	441161	OOEP	NM_001080507	oocyte expressed protein
+961	84	hsa-miR-155-5p	55680	RUFY2	NM_017987	RUN and FYVE domain containing 2
+962	84	hsa-miR-155-5p	5771	PTPN2	NM_001207013	protein tyrosine phosphatase, non-receptor type 2
+963	84	hsa-miR-155-5p	4205	MEF2A	NM_001130926	myocyte enhancer factor 2A
+964	84	hsa-miR-150-5p	2029	ENSA	NM_207047	endosulfine alpha
+965	84	hsa-miR-150-5p	644524	NKX2-4	NM_033176	NK2 homeobox 4
+966	84	hsa-miR-150-5p	2664	GDI1	NM_001493	GDP dissociation inhibitor 1
+967	84	hsa-miR-150-5p	81563	C1orf21	NM_030806	chromosome 1 open reading frame 21
+968	84	hsa-miR-150-5p	5573	PRKAR1A	NM_001276289	protein kinase cAMP-dependent type I regulatory subunit alpha
+969	84	hsa-miR-150-5p	200205	IBA57	NM_001010867	IBA57, iron-sulfur cluster assembly
+970	84	hsa-miR-150-5p	6546	SLC8A1	NM_001112800	solute carrier family 8 member A1
+971	84	hsa-miR-150-5p	5887	RAD23B	NM_001244713	RAD23 homolog B, nucleotide excision repair protein
+972	84	hsa-miR-150-5p	54918	CMTM6	NM_017801	CKLF like MARVEL transmembrane domain containing 6
+973	84	hsa-miR-150-5p	26099	SZRD1	NM_001114600	SUZ RNA binding domain containing 1
+974	84	hsa-miR-150-3p	55017	C14orf119	NM_017924	chromosome 14 open reading frame 119
+975	84	hsa-miR-150-3p	154872	C7orf77	NM_001024603	chromosome 7 open reading frame 77
+976	84	hsa-miR-150-3p	80204	FBXO11	NM_001190274	F-box protein 11
+977	84	hsa-miR-150-3p	858	CAV2	NM_198212	caveolin 2
+978	84	hsa-miR-150-3p	4646	MYO6	NM_004999	myosin VI
+979	84	hsa-miR-150-3p	4673	NAP1L1	NM_139207	nucleosome assembly protein 1 like 1
+980	84	hsa-miR-150-3p	10529	NEBL	NM_213569	nebulette
+981	84	hsa-miR-150-3p	1297	COL9A1	NM_001851	collagen type IX alpha 1 chain
+982	84	hsa-miR-150-3p	51605	TRMT6	NM_001281467	tRNA methyltransferase 6
+983	84	hsa-miR-150-3p	9314	KLF4	NM_001314052	Kruppel like factor 4
+984	84	hsa-miR-150-3p	145567	TTC7B	NM_001320421	tetratricopeptide repeat domain 7B
+985	84	hsa-miR-197-5p	100128731	OST4	NM_001134693	oligosaccharyltransferase complex subunit 4, non-catalytic
+986	84	hsa-miR-197-5p	9717	SEC14L5	NM_014692	SEC14 like lipid binding 5
+987	84	hsa-miR-197-5p	10157	AASS	NM_005763	aminoadipate-semialdehyde synthase
+988	84	hsa-miR-197-5p	9768	PCLAF	NM_001029989	PCNA clamp associated factor
+989	84	hsa-miR-197-5p	2819	GPD1	NM_001257199	glycerol-3-phosphate dehydrogenase 1
+990	84	hsa-miR-197-5p	162540	SPPL2C	NM_175882	signal peptide peptidase like 2C
+991	84	hsa-miR-197-3p	4676	NAP1L4	NM_005969	nucleosome assembly protein 1 like 4
+992	84	hsa-miR-197-3p	196500	PIANP	NM_001244014	PILR alpha associated neural protein
+993	84	hsa-miR-197-3p	9422	ZNF264	NM_003417	zinc finger protein 264
+994	84	hsa-miR-197-3p	55530	SVOP	NM_018711	SV2 related protein
+995	84	hsa-miR-197-3p	342184	FMN1	NM_001277314	formin 1
+996	84	hsa-miR-197-3p	867	CBL	NM_005188	Cbl proto-oncogene
+997	84	hsa-miR-197-3p	135228	CD109	NM_133493	CD109 molecule
+998	84	hsa-miR-197-3p	146802	SLC47A2	NM_001099646	solute carrier family 47 member 2
+999	84	hsa-miR-197-3p	345778	MTX3	NM_001167741	metaxin 3
+1000	84	hsa-miR-197-3p	7976	FZD3	NM_017412	frizzled class receptor 3
+1001	84	hsa-miR-195-5p	4293	MAP3K9	NM_001284231	mitogen-activated protein kinase kinase kinase 9
+1002	84	hsa-miR-195-5p	55520	ELAC1	NM_018696	elaC ribonuclease Z 1
+1003	84	hsa-miR-195-5p	157567	ANKRD46	NM_001270377	ankyrin repeat domain 46
+1004	84	hsa-miR-195-5p	4343	MOV10	NM_001130079	Mov10 RISC complex RNA helicase
+1005	84	hsa-miR-195-5p	830	CAPZA2	NM_006136	capping actin protein of muscle Z-line subunit alpha 2
+1006	84	hsa-miR-195-5p	153222	CREBRF	NM_153607	CREB3 regulatory factor
+1007	84	hsa-miR-195-5p	221662	RBM24	NM_001143941	RNA binding motif protein 24
+1008	84	hsa-miR-195-5p	5789	PTPRD	NM_001040712	protein tyrosine phosphatase, receptor type D
+1009	84	hsa-miR-195-5p	27065	NSG1	NM_001040101	neuronal vesicle trafficking associated 1
+1010	84	hsa-miR-195-5p	2322	FLT3	NM_004119	fms related tyrosine kinase 3
+1011	84	hsa-miR-195-5p	23413	NCS1	NM_001128826	neuronal calcium sensor 1
+1012	84	hsa-miR-195-5p	93	ACVR2B	NM_001106	activin A receptor type 2B
+1013	84	hsa-miR-195-5p	60485	SAV1	NM_021818	salvador family WW domain containing protein 1
+1014	84	hsa-miR-195-5p	57494	RIMKLB	NM_020734	ribosomal modification protein rimK like family member B
+1015	84	hsa-miR-195-5p	158866	ZDHHC15	NM_001146256	zinc finger DHHC-type containing 15
+1016	84	hsa-miR-195-5p	54877	ZCCHC2	NM_017742	zinc finger CCHC-type containing 2
+1017	84	hsa-miR-195-5p	81929	SEH1L	NM_031216	SEH1 like nucleoporin
+1018	84	hsa-miR-195-5p	6645	SNTB2	NM_006750	syntrophin beta 2
+1019	84	hsa-miR-195-5p	599	BCL2L2	NM_001199839	BCL2 like 2
+1020	84	hsa-miR-195-5p	440193	CCDC88C	NM_001080414	coiled-coil domain containing 88C
+1021	84	hsa-miR-195-5p	27314	RAB30	NM_001286059	RAB30, member RAS oncogene family
+1022	84	hsa-miR-195-5p	10260	DENND4A	NM_001144823	DENN domain containing 4A
+1023	84	hsa-miR-195-5p	1783	DYNC1LI2	NM_001323955	dynein cytoplasmic 1 light intermediate chain 2
+1024	84	hsa-miR-195-5p	55324	ABCF3	NM_018358	ATP binding cassette subfamily F member 3
+1025	84	hsa-miR-195-5p	2132	EXT2	NM_001178083	exostosin glycosyltransferase 2
+1026	84	hsa-miR-195-5p	3915	LAMC1	NM_002293	laminin subunit gamma 1
+1027	84	hsa-miR-195-5p	9823	ARMCX2	NM_001282231	armadillo repeat containing X-linked 2
+1028	84	hsa-miR-195-5p	55291	PPP6R3	NM_001164160	protein phosphatase 6 regulatory subunit 3
+1029	84	hsa-miR-195-5p	9931	HELZ	NM_014877	helicase with zinc finger
+1030	84	hsa-miR-195-5p	26012	NSMF	NM_001130969	NMDA receptor synaptonuclear signaling and neuronal migration factor
+1031	84	hsa-miR-191-5p	1629	DBT	NM_001918	dihydrolipoamide branched chain transacylase E2
+1032	83	hsa-miR-155-5p	54796	BNC2	NM_017637	basonuclin 2
+1033	83	hsa-miR-155-5p	8301	PICALM	NM_001206946	phosphatidylinositol binding clathrin assembly protein
+1034	83	hsa-miR-155-5p	388561	ZNF761	NM_001008401	zinc finger protein 761
+1035	83	hsa-miR-155-5p	57144	PAK5	NM_020341	p21 (RAC1) activated kinase 5
+1036	83	hsa-miR-155-5p	114793	FMNL2	NM_052905	formin like 2
+1037	83	hsa-miR-155-5p	4651	MYO10	NM_012334	myosin X
+1038	83	hsa-miR-155-5p	254170	FBXO33	NM_203301	F-box protein 33
+1039	83	hsa-miR-155-5p	29883	CNOT7	NM_001322099	CCR4-NOT transcription complex subunit 7
+1040	83	hsa-miR-155-5p	57617	VPS18	NM_020857	VPS18, CORVET/HOPS core subunit
+1041	83	hsa-miR-155-5p	78990	OTUB2	NM_023112	OTU deubiquitinase, ubiquitin aldehyde binding 2
+1042	83	hsa-miR-155-5p	2752	GLUL	NM_002065	glutamate-ammonia ligase
+1043	83	hsa-miR-155-5p	2139	EYA2	NM_172110	EYA transcriptional coactivator and phosphatase 2
+1044	83	hsa-miR-155-5p	51719	CAB39	NM_001130849	calcium binding protein 39
+1045	83	hsa-miR-155-5p	55108	BSDC1	NM_001300958	BSD domain containing 1
+1046	83	hsa-miR-155-5p	57491	AHRR	NM_001242412	aryl-hydrocarbon receptor repressor
+1047	83	hsa-miR-150-5p	63929	XPNPEP3	NM_022098	X-prolyl aminopeptidase 3
+1048	83	hsa-miR-150-5p	5454	POU3F2	NM_005604	POU class 3 homeobox 2
+1049	83	hsa-miR-150-5p	65124	SOWAHC	NM_023016	sosondowah ankyrin repeat domain family member C
+1050	83	hsa-miR-150-5p	5295	PIK3R1	NM_001242466	phosphoinositide-3-kinase regulatory subunit 1
+1051	83	hsa-miR-150-5p	51375	SNX7	NM_152238	sorting nexin 7
+1052	83	hsa-miR-150-5p	3189	HNRNPH3	NM_012207	heterogeneous nuclear ribonucleoprotein H3
+1053	83	hsa-miR-150-5p	9218	VAPA	NM_003574	VAMP associated protein A
+1054	83	hsa-miR-150-5p	5429	POLH	NM_001291969	DNA polymerase eta
+1055	83	hsa-miR-150-3p	254428	SLC41A1	NM_173854	solute carrier family 41 member 1
+1056	83	hsa-miR-150-3p	23035	PHLPP2	NM_001289003	PH domain and leucine rich repeat protein phosphatase 2
+1057	83	hsa-miR-150-3p	57456	KIAA1143	NM_020696	KIAA1143
+1058	83	hsa-miR-150-3p	5744	PTHLH	NM_002820	parathyroid hormone like hormone
+1059	83	hsa-miR-150-3p	51131	PHF11	NM_001040444	PHD finger protein 11
+1060	83	hsa-miR-150-3p	89874	SLC25A21	NM_001171170	solute carrier family 25 member 21
+1061	83	hsa-miR-150-3p	79987	SVEP1	NM_153366	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1
+1062	83	hsa-miR-150-3p	1955	MEGF9	NM_001080497	multiple EGF like domains 9
+1063	83	hsa-miR-150-3p	107303344	SETDB2-PHF11	NM_001320727	SETDB2-PHF11 readthrough
+1064	83	hsa-miR-197-5p	25915	NDUFAF3	NM_199070	NADH:ubiquinone oxidoreductase complex assembly factor 3
+1065	83	hsa-miR-197-5p	23281	MTUS2	NM_001033602	microtubule associated scaffold protein 2
+1066	83	hsa-miR-197-5p	5045	FURIN	NM_001289824	furin, paired basic amino acid cleaving enzyme
+1067	83	hsa-miR-197-5p	117531	TMC1	NM_138691	transmembrane channel like 1
+1068	83	hsa-miR-197-5p	3797	KIF3C	NM_002254	kinesin family member 3C
+1069	83	hsa-miR-197-5p	27316	RBMX	NM_002139	RNA binding motif protein X-linked
+1070	83	hsa-miR-197-5p	54665	RSBN1	NM_018364	round spermatid basic protein 1
+1071	83	hsa-miR-197-3p	8496	PPFIBP1	NM_001198915	PPFIA binding protein 1
+1072	83	hsa-miR-197-3p	57673	BEND3	NM_001080450	BEN domain containing 3
+1073	83	hsa-miR-197-3p	60682	SMAP1	NM_021940	small ArfGAP 1
+1074	83	hsa-miR-197-3p	57624	NYAP2	NM_020864	neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adaptor 2
+1075	83	hsa-miR-195-5p	79618	HMBOX1	NM_001324395	homeobox containing 1
+1076	83	hsa-miR-195-5p	386617	KCTD8	NM_198353	potassium channel tetramerization domain containing 8
+1077	83	hsa-miR-195-5p	147694	ZNF548	NM_001172773	zinc finger protein 548
+1078	83	hsa-miR-195-5p	9374	PPT2	NM_001204103	palmitoyl-protein thioesterase 2
+1079	83	hsa-miR-195-5p	22926	ATF6	NM_007348	activating transcription factor 6
+1080	83	hsa-miR-195-5p	10498	CARM1	NM_199141	coactivator associated arginine methyltransferase 1
+1081	83	hsa-miR-195-5p	3549	IHH	NM_002181	Indian hedgehog signaling molecule
+1082	83	hsa-miR-195-5p	2800	GOLGA1	NM_002077	golgin A1
+1083	83	hsa-miR-195-5p	9819	TSC22D2	NM_001303264	TSC22 domain family member 2
+1084	83	hsa-miR-195-5p	27042	UTP25	NM_014388	UTP25, small subunit processor component
+1085	83	hsa-miR-195-5p	9069	CLDN12	NM_001185072	claudin 12
+1086	83	hsa-miR-195-5p	26523	AGO1	NM_001317123	argonaute RISC catalytic component 1
+1087	83	hsa-miR-195-5p	2138	EYA1	NM_000503	EYA transcriptional coactivator and phosphatase 1
+1088	83	hsa-miR-195-5p	552889	ATXN7L3B	NM_001136262	ataxin 7 like 3B
+1089	83	hsa-miR-195-5p	8828	NRP2	NM_003872	neuropilin 2
+1090	83	hsa-miR-195-5p	53344	CHIC1	NM_001039840	cysteine rich hydrophobic domain 1
+1091	83	hsa-miR-195-5p	144195	SLC2A14	NM_001286233	solute carrier family 2 member 14
+1092	83	hsa-miR-195-5p	23163	GGA3	NM_001172703	golgi associated, gamma adaptin ear containing, ARF binding protein 3
+1093	83	hsa-miR-195-5p	9949	AMMECR1	NM_001025580	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region gene 1
+1094	83	hsa-miR-195-5p	11313	LYPLA2	NM_007260	lysophospholipase 2
+1095	83	hsa-miR-195-5p	29959	NRBP1	NM_001321357	nuclear receptor binding protein 1
+1096	83	hsa-miR-195-5p	9870	AREL1	NM_001039479	apoptosis resistant E3 ubiquitin protein ligase 1
+1097	83	hsa-miR-195-5p	55553	SOX6	NM_001145811	SRY-box 6
+1098	83	hsa-miR-195-5p	401944	LDLRAD2	NM_001013693	low density lipoprotein receptor class A domain containing 2
+1099	83	hsa-miR-195-5p	10490	VTI1B	NM_006370	vesicle transport through interaction with t-SNAREs 1B
+1100	83	hsa-miR-191-5p	8754	ADAM9	NM_003816	ADAM metallopeptidase domain 9
+1101	83	hsa-miR-191-5p	8531	YBX3	NM_001145426	Y-box binding protein 3
+1102	83	hsa-miR-191-5p	4897	NRCAM	NM_001037132	neuronal cell adhesion molecule
+1103	82	hsa-miR-155-5p	58	ACTA1	NM_001100	actin, alpha 1, skeletal muscle
+1104	82	hsa-miR-155-5p	143384	CACUL1	NM_153810	CDK2 associated cullin domain 1
+1105	82	hsa-miR-155-5p	9753	ZSCAN12	NM_001163391	zinc finger and SCAN domain containing 12
+1106	82	hsa-miR-155-5p	1901	S1PR1	NM_001320730	sphingosine-1-phosphate receptor 1
+1107	82	hsa-miR-155-5p	26045	LRRTM2	NM_015564	leucine rich repeat transmembrane neuronal 2
+1108	82	hsa-miR-155-5p	440822	PIWIL3	NM_001255975	piwi like RNA-mediated gene silencing 3
+1109	82	hsa-miR-155-5p	54799	MBTD1	NM_017643	mbt domain containing 1
+1110	82	hsa-miR-155-5p	4294	MAP3K10	NM_002446	mitogen-activated protein kinase kinase kinase 10
+1111	82	hsa-miR-155-5p	79054	TRPM8	NM_024080	transient receptor potential cation channel subfamily M member 8
+1112	82	hsa-miR-155-5p	2824	GPM6B	NM_001001995	glycoprotein M6B
+1113	82	hsa-miR-155-5p	51274	KLF3	NM_016531	Kruppel like factor 3
+1114	82	hsa-miR-155-5p	9693	RAPGEF2	NM_014247	Rap guanine nucleotide exchange factor 2
+1115	82	hsa-miR-155-5p	100533105	C8orf44-SGK3	NM_001204173	C8orf44-SGK3 readthrough
+1116	82	hsa-miR-155-5p	23580	CDC42EP4	NM_012121	CDC42 effector protein 4
+1117	82	hsa-miR-155-5p	6198	RPS6KB1	NM_001272043	ribosomal protein S6 kinase B1
+1118	82	hsa-miR-155-5p	56913	C1GALT1	NM_020156	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1
+1119	82	hsa-miR-155-5p	7993	UBXN8	NM_001282199	UBX domain protein 8
+1120	82	hsa-miR-155-5p	6299	SALL1	NM_001127892	spalt like transcription factor 1
+1121	82	hsa-miR-155-5p	10207	PATJ	NM_176877	PATJ, crumbs cell polarity complex component
+1122	82	hsa-miR-155-5p	55714	TENM3	NM_001080477	teneurin transmembrane protein 3
+1123	82	hsa-miR-155-5p	256764	WDR72	NM_182758	WD repeat domain 72
+1124	82	hsa-miR-155-5p	285668	C5orf64	NM_173667	chromosome 5 open reading frame 64
+1125	82	hsa-miR-155-5p	641700	ECSCR	NM_001077693	endothelial cell surface expressed chemotaxis and apoptosis regulator
+1126	82	hsa-miR-150-5p	7552	ZNF711	NM_021998	zinc finger protein 711
+1127	82	hsa-miR-150-5p	1310	COL19A1	NM_001858	collagen type XIX alpha 1 chain
+1128	82	hsa-miR-150-5p	9087	TMSB4Y	NM_004202	thymosin beta 4 Y-linked
+1129	82	hsa-miR-150-5p	66000	TMEM108	NM_001282865	transmembrane protein 108
+1130	82	hsa-miR-150-5p	201895	SMIM14	NM_174921	small integral membrane protein 14
+1131	82	hsa-miR-150-5p	92421	CHMP4C	NM_152284	charged multivesicular body protein 4C
+1132	82	hsa-miR-150-5p	55705	IPO9	NM_018085	importin 9
+1133	82	hsa-miR-150-5p	8671	SLC4A4	NM_001098484	solute carrier family 4 member 4
+1134	82	hsa-miR-150-5p	5813	PURA	NM_005859	purine rich element binding protein A
+1135	82	hsa-miR-150-5p	390980	ZNF805	NM_001023563	zinc finger protein 805
+1136	82	hsa-miR-150-5p	157807	CLVS1	NM_173519	clavesin 1
+1137	82	hsa-miR-150-5p	10260	DENND4A	NM_001144823	DENN domain containing 4A
+1138	82	hsa-miR-150-5p	23112	TNRC6B	NM_015088	trinucleotide repeat containing 6B
+1139	82	hsa-miR-150-3p	4356	MPP3	NM_001932	membrane palmitoylated protein 3
+1140	82	hsa-miR-150-3p	22797	TFEC	NM_001018058	transcription factor EC
+1141	82	hsa-miR-150-3p	6936	GCFC2	NM_003203	GC-rich sequence DNA-binding factor 2
+1142	82	hsa-miR-150-3p	57084	SLC17A6	NM_020346	solute carrier family 17 member 6
+1143	82	hsa-miR-150-3p	64866	CDCP1	NM_022842	CUB domain containing protein 1
+1144	82	hsa-miR-150-3p	124808	CCDC43	NM_001099225	coiled-coil domain containing 43
+1145	82	hsa-miR-150-3p	286827	TRIM59	NM_173084	tripartite motif containing 59
+1146	82	hsa-miR-150-3p	29915	HCFC2	NM_013320	host cell factor C2
+1147	82	hsa-miR-150-3p	266	AMELY	NM_001143	amelogenin Y-linked
+1148	82	hsa-miR-197-5p	55089	SLC38A4	NM_001143824	solute carrier family 38 member 4
+1149	82	hsa-miR-197-5p	9278	ZBTB22	NM_005453	zinc finger and BTB domain containing 22
+1150	82	hsa-miR-197-5p	4037	LRP3	NM_002333	LDL receptor related protein 3
+1151	82	hsa-miR-197-5p	57472	CNOT6	NM_001303241	CCR4-NOT transcription complex subunit 6
+1152	82	hsa-miR-197-5p	51230	PHF20	NM_016436	PHD finger protein 20
+1153	82	hsa-miR-197-5p	388730	TMEM81	NM_203376	transmembrane protein 81
+1154	82	hsa-miR-197-5p	399473	SPRED3	NM_001042522	sprouty related EVH1 domain containing 3
+1155	82	hsa-miR-197-3p	124411	ZNF720	NM_001130913	zinc finger protein 720
+1156	82	hsa-miR-197-3p	25963	TMEM87A	NM_001110503	transmembrane protein 87A
+1157	82	hsa-miR-197-3p	100529097	RPL36A-HNRNPH2	NM_001199974	RPL36A-HNRNPH2 readthrough
+1158	82	hsa-miR-197-3p	4585	MUC4	NM_138297	mucin 4, cell surface associated
+1159	82	hsa-miR-197-3p	134553	C5orf24	NM_152409	chromosome 5 open reading frame 24
+1160	82	hsa-miR-197-3p	85403	EAF1	NM_033083	ELL associated factor 1
+1161	82	hsa-miR-195-5p	220047	CCDC83	NM_173556	coiled-coil domain containing 83
+1162	82	hsa-miR-195-5p	22837	COBLL1	NM_001278458	cordon-bleu WH2 repeat protein like 1
+1163	82	hsa-miR-195-5p	27164	SALL3	NM_171999	spalt like transcription factor 3
+1164	82	hsa-miR-195-5p	100130451	LOC100130451	NM_001242575	uncharacterized LOC100130451
+1165	82	hsa-miR-195-5p	57579	FAM135A	NM_001105531	family with sequence similarity 135 member A
+1166	82	hsa-miR-195-5p	11174	ADAMTS6	NM_197941	ADAM metallopeptidase with thrombospondin type 1 motif 6
+1167	82	hsa-miR-195-5p	55321	TMEM74B	NM_001304748	transmembrane protein 74B
+1168	82	hsa-miR-195-5p	6860	SYT4	NM_020783	synaptotagmin 4
+1169	82	hsa-miR-195-5p	3480	IGF1R	NM_000875	insulin like growth factor 1 receptor
+1170	82	hsa-miR-195-5p	5356	PLRG1	NM_001201564	pleiotropic regulator 1
+1171	82	hsa-miR-195-5p	3482	IGF2R	NM_000876	insulin like growth factor 2 receptor
+1172	82	hsa-miR-195-5p	10776	ARPP19	NM_001306191	cAMP regulated phosphoprotein 19
+1173	82	hsa-miR-195-5p	25924	MYRIP	NM_001284423	myosin VIIA and Rab interacting protein
+1174	82	hsa-miR-195-5p	2182	ACSL4	NM_001318509	acyl-CoA synthetase long chain family member 4
+1175	82	hsa-miR-195-5p	7390	UROS	NM_001324039	uroporphyrinogen III synthase
+1176	82	hsa-miR-195-5p	6515	SLC2A3	NM_006931	solute carrier family 2 member 3
+1177	82	hsa-miR-195-5p	54361	WNT4	NM_030761	Wnt family member 4
+1178	82	hsa-miR-195-5p	54665	RSBN1	NM_018364	round spermatid basic protein 1
+1179	82	hsa-miR-195-5p	657	BMPR1A	NM_004329	bone morphogenetic protein receptor type 1A
+1180	82	hsa-miR-195-5p	92211	CDHR1	NM_001171971	cadherin related family member 1
+1181	82	hsa-miR-195-5p	3575	IL7R	NM_002185	interleukin 7 receptor
+1182	82	hsa-miR-195-5p	375061	FAM89A	NM_198552	family with sequence similarity 89 member A
+1183	82	hsa-miR-195-5p	57142	RTN4	NM_001321859	reticulon 4
+1184	82	hsa-miR-195-5p	54879	ST7L	NM_138728	suppression of tumorigenicity 7 like
+1185	82	hsa-miR-195-5p	9053	MAP7	NM_001198608	microtubule associated protein 7
+1186	82	hsa-miR-195-5p	64750	SMURF2	NM_022739	SMAD specific E3 ubiquitin protein ligase 2
+1187	82	hsa-miR-191-5p	403341	ZBTB34	NM_001099270	zinc finger and BTB domain containing 34
+1188	82	hsa-miR-191-5p	23595	ORC3	NM_001197259	origin recognition complex subunit 3
+1189	82	hsa-miR-191-5p	7804	LRP8	NM_004631	LDL receptor related protein 8
+1190	81	hsa-miR-155-5p	91664	ZNF845	NM_001321522	zinc finger protein 845
+1191	81	hsa-miR-155-5p	56145	PCDHA3	NM_018906	protocadherin alpha 3
+1192	81	hsa-miR-155-5p	23507	LRRC8B	NM_001134476	leucine rich repeat containing 8 VRAC subunit B
+1193	81	hsa-miR-155-5p	56140	PCDHA8	NM_018911	protocadherin alpha 8
+1194	81	hsa-miR-155-5p	56135	PCDHAC1	NM_018898	protocadherin alpha subfamily C, 1
+1195	81	hsa-miR-155-5p	9752	PCDHA9	NM_031857	protocadherin alpha 9
+1196	81	hsa-miR-155-5p	554251	FBXO48	NM_001024680	F-box protein 48
+1197	81	hsa-miR-155-5p	8651	SOCS1	NM_003745	suppressor of cytokine signaling 1
+1198	81	hsa-miR-155-5p	23186	RCOR1	NM_015156	REST corepressor 1
+1199	81	hsa-miR-155-5p	56134	PCDHAC2	NM_018899	protocadherin alpha subfamily C, 2
+1200	81	hsa-miR-155-5p	56136	PCDHA13	NM_018904	protocadherin alpha 13
+1201	81	hsa-miR-155-5p	56144	PCDHA4	NM_018907	protocadherin alpha 4
+1202	81	hsa-miR-155-5p	23286	WWC1	NM_001161661	WW and C2 domain containing 1
+1203	81	hsa-miR-155-5p	4211	MEIS1	NM_002398	Meis homeobox 1
+1204	81	hsa-miR-155-5p	56147	PCDHA1	NM_031411	protocadherin alpha 1
+1205	81	hsa-miR-155-5p	8491	MAP4K3	NM_001270425	mitogen-activated protein kinase kinase kinase kinase 3
+1206	81	hsa-miR-155-5p	26959	HBP1	NM_012257	HMG-box transcription factor 1
+1207	81	hsa-miR-155-5p	56139	PCDHA10	NM_031860	protocadherin alpha 10
+1208	81	hsa-miR-155-5p	56143	PCDHA5	NM_018908	protocadherin alpha 5
+1209	81	hsa-miR-155-5p	56141	PCDHA7	NM_018910	protocadherin alpha 7
+1210	81	hsa-miR-155-5p	8239	USP9X	NM_001039590	ubiquitin specific peptidase 9 X-linked
+1211	81	hsa-miR-155-5p	56146	PCDHA2	NM_018905	protocadherin alpha 2
+1212	81	hsa-miR-155-5p	4677	NARS	NM_004539	asparaginyl-tRNA synthetase
+1213	81	hsa-miR-155-5p	56137	PCDHA12	NM_018903	protocadherin alpha 12
+1214	81	hsa-miR-155-5p	56142	PCDHA6	NM_018909	protocadherin alpha 6
+1215	81	hsa-miR-155-5p	56138	PCDHA11	NM_018902	protocadherin alpha 11
+1216	81	hsa-miR-150-5p	25936	NSL1	NM_015471	NSL1, MIS12 kinetochore complex component
+1217	81	hsa-miR-150-5p	55209	SETD5	NM_001080517	SET domain containing 5
+1218	81	hsa-miR-150-5p	4883	NPR3	NM_001204376	natriuretic peptide receptor 3
+1219	81	hsa-miR-150-5p	952	CD38	NM_001775	CD38 molecule
+1220	81	hsa-miR-150-5p	5079	PAX5	NM_001280549	paired box 5
+1221	81	hsa-miR-150-5p	340485	ACER2	NM_001010887	alkaline ceramidase 2
+1222	81	hsa-miR-150-5p	2182	ACSL4	NM_004458	acyl-CoA synthetase long chain family member 4
+1223	81	hsa-miR-150-5p	80207	OPA3	NM_025136	OPA3, outer mitochondrial membrane lipid metabolism regulator
+1224	81	hsa-miR-150-5p	23483	TGDS	NM_014305	TDP-glucose 4,6-dehydratase
+1225	81	hsa-miR-150-5p	7581	ZNF33A	NM_001324176	zinc finger protein 33A
+1226	81	hsa-miR-150-5p	91404	SESTD1	NM_178123	SEC14 and spectrin domain containing 1
+1227	81	hsa-miR-150-5p	84060	RBM48	NM_032120	RNA binding motif protein 48
+1228	81	hsa-miR-150-3p	132112	RTP1	NM_153708	receptor transporter protein 1
+1229	81	hsa-miR-150-3p	23347	SMCHD1	NM_015295	structural maintenance of chromosomes flexible hinge domain containing 1
+1230	81	hsa-miR-150-3p	3953	LEPR	NM_002303	leptin receptor
+1231	81	hsa-miR-150-3p	10218	ANGPTL7	NM_021146	angiopoietin like 7
+1232	81	hsa-miR-197-5p	55224	ETNK2	NM_001297760	ethanolamine kinase 2
+1233	81	hsa-miR-197-5p	7832	BTG2	NM_006763	BTG anti-proliferation factor 2
+1234	81	hsa-miR-197-5p	6595	SMARCA2	NM_001289399	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2
+1235	81	hsa-miR-197-3p	646851	FAM227A	NM_001291030	family with sequence similarity 227 member A
+1236	81	hsa-miR-197-3p	54477	PLEKHA5	NM_001190860	pleckstrin homology domain containing A5
+1237	81	hsa-miR-197-3p	22843	PPM1E	NM_014906	protein phosphatase, Mg2+/Mn2+ dependent 1E
+1238	81	hsa-miR-197-3p	54494	C11orf71	NM_001271562	chromosome 11 open reading frame 71
+1239	81	hsa-miR-197-3p	57614	RELCH	NM_020854	RAB11 binding and LisH domain, coiled-coil and HEAT repeat containing
+1240	81	hsa-miR-195-5p	60436	TGIF2	NM_001199513	TGFB induced factor homeobox 2
+1241	81	hsa-miR-195-5p	55531	ELMOD1	NM_001308018	ELMO domain containing 1
+1242	81	hsa-miR-195-5p	10150	MBNL2	NM_001306070	muscleblind like splicing regulator 2
+1243	81	hsa-miR-195-5p	2254	FGF9	NM_002010	fibroblast growth factor 9
+1244	81	hsa-miR-195-5p	916	CD3E	NM_000733	CD3e molecule
+1245	81	hsa-miR-195-5p	57534	MIB1	NM_020774	mindbomb E3 ubiquitin protein ligase 1
+1246	81	hsa-miR-195-5p	389941	C1QL3	NM_001010908	complement C1q like 3
+1247	81	hsa-miR-195-5p	220107	DLEU7	NM_198989	deleted in lymphocytic leukemia 7
+1248	81	hsa-miR-195-5p	257407	C2orf72	NM_001144994	chromosome 2 open reading frame 72
+1249	81	hsa-miR-195-5p	65084	TMEM135	NM_001168724	transmembrane protein 135
+1250	81	hsa-miR-195-5p	121260	SLC15A4	NM_145648	solute carrier family 15 member 4
+1251	81	hsa-miR-195-5p	145501	ISM2	NM_182509	isthmin 2
+1252	81	hsa-miR-195-5p	9776	ATG13	NM_001142673	autophagy related 13
+1253	81	hsa-miR-195-5p	374986	MIGA1	NM_001270384	mitoguardin 1
+1254	81	hsa-miR-195-5p	56963	RGMA	NM_001166283	repulsive guidance molecule BMP co-receptor a
+1255	81	hsa-miR-195-5p	54566	EPB41L4B	NM_019114	erythrocyte membrane protein band 4.1 like 4B
+1256	81	hsa-miR-195-5p	6456	SH3GL2	NM_003026	SH3 domain containing GRB2 like 2, endophilin A1
+1257	81	hsa-miR-195-5p	54443	ANLN	NM_001284301	anillin actin binding protein
+1258	81	hsa-miR-195-5p	23512	SUZ12	NM_001321207	SUZ12, polycomb repressive complex 2 subunit
+1259	81	hsa-miR-195-5p	2339	FNTA	NM_002027	farnesyltransferase, CAAX box, alpha
+1260	81	hsa-miR-195-5p	50486	G0S2	NM_015714	G0/G1 switch 2
+1261	81	hsa-miR-195-5p	283450	HECTD4	NM_001109662	HECT domain E3 ubiquitin protein ligase 4
+1262	81	hsa-miR-195-5p	201799	TMEM154	NM_152680	transmembrane protein 154
+1263	81	hsa-miR-195-5p	55183	RIF1	NM_001177663	replication timing regulatory factor 1
+1264	81	hsa-miR-195-5p	91404	SESTD1	NM_178123	SEC14 and spectrin domain containing 1
+1265	81	hsa-miR-195-5p	10313	RTN3	NM_001265589	reticulon 3
+1266	81	hsa-miR-195-5p	6095	RORA	NM_002943	RAR related orphan receptor A
+1267	81	hsa-miR-195-5p	79616	CCNJL	NM_001308173	cyclin J like
+1268	81	hsa-miR-195-5p	223117	SEMA3D	NM_152754	semaphorin 3D
+1269	81	hsa-miR-191-5p	55596	ZCCHC8	NM_017612	zinc finger CCHC-type containing 8
+1270	80	hsa-miR-155-5p	51002	TPRKB	NM_016058	TP53RK binding protein
+1271	80	hsa-miR-155-5p	27303	RBMS3	NM_001003792	RNA binding motif single stranded interacting protein 3
+1272	80	hsa-miR-155-5p	131368	ZPLD1	NM_175056	zona pellucida like domain containing 1
+1273	80	hsa-miR-155-5p	421	ARVCF	NM_001670	ARVCF, delta catenin family member
+1274	80	hsa-miR-155-5p	51778	MYOZ2	NM_016599	myozenin 2
+1275	80	hsa-miR-155-5p	90871	DMAC1	NM_001318059	distal membrane arm assembly complex 1
+1276	80	hsa-miR-155-5p	3635	INPP5D	NM_001017915	inositol polyphosphate-5-phosphatase D
+1277	80	hsa-miR-155-5p	3020	H3F3A	NM_002107	H3 histone family member 3A
+1278	80	hsa-miR-155-5p	57688	ZSWIM6	NM_020928	zinc finger SWIM-type containing 6
+1279	80	hsa-miR-155-5p	3702	ITK	NM_005546	IL2 inducible T cell kinase
+1280	80	hsa-miR-150-5p	116064	LRRC58	NM_001099678	leucine rich repeat containing 58
+1281	80	hsa-miR-150-5p	10048	RANBP9	NM_005493	RAN binding protein 9
+1282	80	hsa-miR-150-5p	22881	ANKRD6	NM_001242809	ankyrin repeat domain 6
+1283	80	hsa-miR-150-5p	341640	FREM2	NM_207361	FRAS1 related extracellular matrix protein 2
+1284	80	hsa-miR-150-5p	55869	HDAC8	NM_001166419	histone deacetylase 8
+1285	80	hsa-miR-150-5p	79640	C22orf46	NM_001142964	chromosome 22 open reading frame 46
+1286	80	hsa-miR-150-5p	5506	PPP1R3A	NM_002711	protein phosphatase 1 regulatory subunit 3A
+1287	80	hsa-miR-150-5p	5355	PLP2	NM_002668	proteolipid protein 2
+1288	80	hsa-miR-150-5p	57798	GATAD1	NM_021167	GATA zinc finger domain containing 1
+1289	80	hsa-miR-150-5p	90861	JPT2	NM_144570	Jupiter microtubule associated homolog 2
+1290	80	hsa-miR-150-5p	1491	CTH	NM_001190463	cystathionine gamma-lyase
+1291	80	hsa-miR-150-5p	27288	RBMXL2	NM_014469	RBMX like 2
+1292	80	hsa-miR-150-5p	140710	SOGA1	NM_080627	suppressor of glucose, autophagy associated 1
+1293	80	hsa-miR-150-5p	3949	LDLR	NM_001195803	low density lipoprotein receptor
+1294	80	hsa-miR-150-5p	8832	CD84	NM_001184879	CD84 molecule
+1295	80	hsa-miR-150-5p	389058	SP5	NM_001003845	Sp5 transcription factor
+1296	80	hsa-miR-150-5p	256356	GK5	NM_001039547	glycerol kinase 5
+1297	80	hsa-miR-150-3p	85458	DIXDC1	NM_001037954	DIX domain containing 1
+1298	80	hsa-miR-150-3p	26999	CYFIP2	NM_001291722	cytoplasmic FMR1 interacting protein 2
+1299	80	hsa-miR-150-3p	10795	ZNF268	NM_001165881	zinc finger protein 268
+1300	80	hsa-miR-150-3p	9890	PLPPR4	NM_001166252	phospholipid phosphatase related 4
+1301	80	hsa-miR-150-3p	338809	C12orf74	NM_001037671	chromosome 12 open reading frame 74
+1302	80	hsa-miR-150-3p	339896	GADL1	NM_207359	glutamate decarboxylase like 1
+1303	80	hsa-miR-150-3p	642938	INSYN2	NM_001039762	inhibitory synaptic factor 2A
+1304	80	hsa-miR-197-5p	231	AKR1B1	NM_001628	aldo-keto reductase family 1 member B
+1305	80	hsa-miR-197-5p	285382	C3orf70	NM_001025266	chromosome 3 open reading frame 70
+1306	80	hsa-miR-197-3p	93986	FOXP2	NM_001172766	forkhead box P2
+1307	80	hsa-miR-197-3p	23365	ARHGEF12	NM_001301084	Rho guanine nucleotide exchange factor 12
+1308	80	hsa-miR-197-3p	93973	ACTR8	NM_022899	ARP8 actin related protein 8 homolog
+1309	80	hsa-miR-197-3p	23633	KPNA6	NM_012316	karyopherin subunit alpha 6
+1310	80	hsa-miR-197-3p	23251	MINAR1	NM_015206	membrane integral NOTCH2 associated receptor 1
+1311	80	hsa-miR-197-3p	5579	PRKCB	NM_002738	protein kinase C beta
+1312	80	hsa-miR-197-3p	50515	CHST11	NM_001173982	carbohydrate sulfotransferase 11
+1313	80	hsa-miR-197-3p	23204	ARL6IP1	NM_001313858	ADP ribosylation factor like GTPase 6 interacting protein 1
+1314	80	hsa-miR-197-3p	54460	MRPS21	NM_031901	mitochondrial ribosomal protein S21
+1315	80	hsa-miR-197-3p	25850	ZNF345	NM_001242474	zinc finger protein 345
+1316	80	hsa-miR-197-3p	9495	AKAP5	NM_004857	A-kinase anchoring protein 5
+1317	80	hsa-miR-197-3p	116068	LYSMD3	NM_198273	LysM domain containing 3
+1318	80	hsa-miR-197-3p	873	CBR1	NM_001286789	carbonyl reductase 1
+1319	80	hsa-miR-197-3p	23198	PSME4	NM_014614	proteasome activator subunit 4
+1320	80	hsa-miR-195-5p	22936	ELL2	NM_012081	elongation factor for RNA polymerase II 2
+1321	80	hsa-miR-195-5p	51101	ZC2HC1A	NM_016010	zinc finger C2HC-type containing 1A
+1322	80	hsa-miR-195-5p	5576	PRKAR2A	NM_004157	protein kinase cAMP-dependent type II regulatory subunit alpha
+1323	80	hsa-miR-195-5p	23040	MYT1L	NM_015025	myelin transcription factor 1 like
+1324	80	hsa-miR-195-5p	3798	KIF5A	NM_004984	kinesin family member 5A
+1325	80	hsa-miR-195-5p	140700	SAMD10	NM_080621	sterile alpha motif domain containing 10
+1326	80	hsa-miR-195-5p	55902	ACSS2	NM_001076552	acyl-CoA synthetase short chain family member 2
+1327	80	hsa-miR-195-5p	10621	POLR3F	NM_001282526	RNA polymerase III subunit F
+1328	80	hsa-miR-195-5p	130507	UBR3	NM_172070	ubiquitin protein ligase E3 component n-recognin 3
+1329	80	hsa-miR-195-5p	151613	TTC14	NM_001042601	tetratricopeptide repeat domain 14
+1330	80	hsa-miR-195-5p	605	BCL7A	NM_001024808	BCL7A, BAF complex component
+1331	80	hsa-miR-195-5p	258010	SVIP	NM_001320340	small VCP interacting protein
+1332	80	hsa-miR-195-5p	56981	PRDM11	NM_001256695	PR/SET domain 11
+1333	80	hsa-miR-195-5p	8506	CNTNAP1	NM_003632	contactin associated protein 1
+1334	80	hsa-miR-195-5p	79869	CPSF7	NM_001136040	cleavage and polyadenylation specific factor 7
+1335	80	hsa-miR-195-5p	5727	PTCH1	NM_000264	patched 1
+1336	80	hsa-miR-195-5p	400954	EML6	NM_001039753	EMAP like 6
+1337	80	hsa-miR-195-5p	55022	PID1	NM_001100818	phosphotyrosine interaction domain containing 1
+1338	80	hsa-miR-195-5p	10294	DNAJA2	NM_005880	DnaJ heat shock protein family (Hsp40) member A2
+1339	80	hsa-miR-195-5p	6477	SIAH1	NM_001006610	siah E3 ubiquitin protein ligase 1
+1340	80	hsa-miR-195-5p	84458	LCOR	NM_001170765	ligand dependent nuclear receptor corepressor
+1341	80	hsa-miR-195-5p	54726	OTUD4	NM_001102653	OTU deubiquitinase 4
+1342	80	hsa-miR-195-5p	55740	ENAH	NM_001008493	ENAH, actin regulator
+1343	80	hsa-miR-195-5p	9749	PHACTR2	NM_001100164	phosphatase and actin regulator 2
